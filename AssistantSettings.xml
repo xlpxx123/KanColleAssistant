@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2017-11-16T10:48:12.3750947Z</BackupTime>
+  <BackupTime>2017-11-18T23:41:19.2685637Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Luigi Torelli</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -1965,8 +1965,8 @@
         <AutoChangeShipOpen>true</AutoChangeShipOpen>
         <DamageSettings>
           <string>擦伤</string>
-          <string>小破</string>
-          <string>小破</string>
+          <string>擦伤</string>
+          <string>擦伤</string>
           <string>擦伤</string>
           <string>擦伤</string>
           <string>擦伤</string>
@@ -2007,8 +2007,8 @@
         </ChangeShips>
         <Name>5-5</Name>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>2</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimes>5</SortieLimitTimes>
+        <SortieLimitTimesCounter>4</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2415,7 +2415,7 @@
         </ChangeShips>
         <Name>4-5</Name>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>4</SortieLimitTimes>
+        <SortieLimitTimes>5</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2572,7 +2572,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>13</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -2587,16 +2587,16 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>23826</ID>
+                <ID>49019</ID>
                 <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
+                <Level>10</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>MainCanonMedium</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>44090</ID>
+                <ID>3352</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -2640,7 +2640,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>3352</ID>
+                <ID>23826</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -2675,15 +2675,6 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>49019</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>10</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
                 <ID>9166</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>10</Level>
@@ -2693,10 +2684,19 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
+                <ID>42448</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
                 <ID>115343</ID>
                 <Name>晴嵐(六三一空)</Name>
                 <Level>0</Level>
-                <Adept>3</Adept>
+                <Adept>0</Adept>
                 <Carry>9</Carry>
                 <IconType>ReconSeaplane</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -2719,40 +2719,40 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
+                <ID>95043</ID>
+                <Name>橘花改</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>34</Carry>
+                <IconType>JetPowerededBomber2</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
                 <ID>63416</ID>
                 <Name>流星(六〇一空)</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>34</Carry>
+                <Carry>21</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>3059</ID>
-                <Name>彗星(江草隊)</Name>
+                <ID>116012</ID>
+                <Name>流星改</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>21</Carry>
-                <IconType>DiveBomber</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>5596</ID>
-                <Name>零式艦戦53型(岩本隊)</Name>
-                <Level>10</Level>
                 <Adept>7</Adept>
                 <Carry>12</Carry>
-                <IconType>Fighter</IconType>
+                <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>62896</ID>
-                <Name>熟練艦載機整備員</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MaintenancePersonnel</IconType>
-                <IsNumerable>false</IsNumerable>
+                <ID>62886</ID>
+                <Name>烈風(六〇一空)</Name>
+                <Level>10</Level>
+                <Adept>7</Adept>
+                <Carry>9</Carry>
+                <IconType>Fighter</IconType>
+                <IsNumerable>true</IsNumerable>
               </ItemData>
             </Slots>
           </ShipData>
@@ -2772,7 +2772,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>18234</ID>
+                <ID>2436</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -2781,12 +2781,12 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>62886</ID>
-                <Name>烈風(六〇一空)</Name>
-                <Level>10</Level>
+                <ID>105907</ID>
+                <Name>流星改</Name>
+                <Level>0</Level>
                 <Adept>7</Adept>
                 <Carry>12</Carry>
-                <IconType>Fighter</IconType>
+                <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
@@ -2816,7 +2816,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>20919</ID>
+                <ID>18234</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -2825,7 +2825,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>25997</ID>
+                <ID>20919</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -2845,8 +2845,8 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>64.061251066355453</ViewRangeValue>
-        <AirSuperiority>239</AirSuperiority>
+        <ViewRangeValue>62.881233667732658</ViewRangeValue>
+        <AirSuperiority>155</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>第五战队</Name>
@@ -3666,7 +3666,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>94633</ID>
+                <ID>22</ID>
                 <Name>零式艦戦52型(熟練)</Name>
                 <Level>10</Level>
                 <Adept>7</Adept>
@@ -3685,14 +3685,14 @@
               <ItemData>
                 <ID>81360</ID>
                 <Name>46cm三連装砲</Name>
-                <Level>6</Level>
+                <Level>7</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>MainCanonHeavy</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>40226</ID>
+                <ID>22766</ID>
                 <Name>16inch三連装砲 Mk.7</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -3727,15 +3727,6 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>81787</ID>
-                <Name>46cm三連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
                 <ID>45075</ID>
                 <Name>16inch三連装砲 Mk.7</Name>
                 <Level>7</Level>
@@ -3745,7 +3736,16 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>15616</ID>
+                <ID>81787</ID>
+                <Name>46cm三連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>13331</ID>
                 <Name>九一式徹甲弾</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -3780,7 +3780,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>22766</ID>
+                <ID>40226</ID>
                 <Name>16inch三連装砲 Mk.7</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -3827,7 +3827,7 @@
                 <ID>63416</ID>
                 <Name>流星(六〇一空)</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>5</Adept>
                 <Carry>24</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -3868,10 +3868,10 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>22200</ID>
-                <Name>九七式艦攻(友永隊)</Name>
+                <ID>116012</ID>
+                <Name>流星改</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>0</Adept>
                 <Carry>21</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -3897,8 +3897,8 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>58.142707208231769</ViewRangeValue>
-        <AirSuperiority>451</AirSuperiority>
+        <ViewRangeValue>56.760991266605828</ViewRangeValue>
+        <AirSuperiority>442</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>3-5</Name>
@@ -7231,7 +7231,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>17</OrganizationConfig>
+    <OrganizationConfig>4</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
