@@ -2550,9 +2550,9 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>1-6</Name>
-        <SortieLimitType>None</SortieLimitType>
-        <SortieLimitTimes>5</SortieLimitTimes>
-        <SortieLimitTimesCounter>5</SortieLimitTimesCounter>
+        <SortieLimitType>Times</SortieLimitType>
+        <SortieLimitTimes>2</SortieLimitTimes>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -7231,7 +7231,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>11</OrganizationConfig>
+    <OrganizationConfig>10</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
