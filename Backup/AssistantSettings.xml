@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD
   <BackupTime>2017-11-23T10:48:37.9819578Z</BackupTime>
+=======
+  <BackupTime>2017-11-23T23:50:05.2395934Z</BackupTime>
+>>>>>>> 265813cef343390ad0b3bd50516122d87ecbf1b9
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Luigi Torelli</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
