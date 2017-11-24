@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2017-11-21T07:36:27.0779719Z</BackupTime>
+  <BackupTime>2017-11-23T23:50:05.2395934Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Luigi Torelli</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>37</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
