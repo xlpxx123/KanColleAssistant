@@ -9,9 +9,9 @@
   <AutoExpeditionSettings>
     <AutoKiraOpen>
       <boolean>false</boolean>
-      <boolean>true</boolean>
-      <boolean>true</boolean>
-      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
     </AutoKiraOpen>
     <KiraForSupport>
       <boolean>true</boolean>
@@ -197,6 +197,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>3-3</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
@@ -349,6 +350,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>3-2</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>33</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -498,6 +500,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>5-1</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -639,6 +642,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>偷油</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
         <SortieLimitTimesCounter>2</SortieLimitTimesCounter>
@@ -780,6 +784,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>54</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -904,6 +909,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>53瞪眼</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>71</SortieLimitTimes>
         <SortieLimitTimesCounter>71</SortieLimitTimesCounter>
@@ -1036,6 +1042,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>1-5单点</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1172,6 +1179,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>2-2</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1316,6 +1324,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>1-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1454,6 +1463,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>熟练度</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1580,6 +1590,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>偷油练级</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1734,6 +1745,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>水下54</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>50</SortieLimitTimes>
         <SortieLimitTimesCounter>50</SortieLimitTimesCounter>
@@ -1870,6 +1882,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>6-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>6</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2006,6 +2019,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>5-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2142,6 +2156,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>2-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>2</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2278,6 +2293,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>3-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>4</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2414,6 +2430,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>4-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2550,6 +2567,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>1-6</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>2</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2686,6 +2704,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>E-1</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2812,6 +2831,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>E-2</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
