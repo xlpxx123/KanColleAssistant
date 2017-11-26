@@ -2,16 +2,16 @@
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <BackupTime>2017-11-25T15:34:16.5105782Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
-  <TargetShips>Luigi Torelli</TargetShips>
+  <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
   <AutoRepairReserved>0</AutoRepairReserved>
   <AutoRepairOrder>0</AutoRepairOrder>
   <AutoExpeditionSettings>
     <AutoKiraOpen>
       <boolean>false</boolean>
-      <boolean>false</boolean>
-      <boolean>false</boolean>
-      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
     </AutoKiraOpen>
     <KiraForSupport>
       <boolean>true</boolean>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>37</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -2716,7 +2716,7 @@
         <MapIndex>2</MapIndex>
         <IsEvent>true</IsEvent>
         <Strategy>打通</Strategy>
-        <BossStrategy>BOSS进夜战</BossStrategy>
+        <BossStrategy>BOSS存活时夜战</BossStrategy>
         <CustomFightNum>1</CustomFightNum>
         <Formation>单纵</Formation>
         <RepairTime>1</RepairTime>
@@ -2766,12 +2766,12 @@
             <int>0</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>175</int>
+            <int>270</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>175</int>
+            <int>270</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>0</int>
@@ -2797,9 +2797,15 @@
           <AirActionType>Ready</AirActionType>
           <AirActionType>Ready</AirActionType>
         </AdvanceAirActions>
-        <AutoChangeShipOpen>false</AutoChangeShipOpen>
+        <AutoChangeShipOpen>true</AutoChangeShipOpen>
         <DamageSettings>
-          <string>中破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>擦伤</string>
           <string>中破</string>
           <string>中破</string>
           <string>中破</string>
@@ -2807,7 +2813,13 @@
           <string>中破</string>
         </DamageSettings>
         <ConditionSettings>
-          <int>0</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
           <int>0</int>
           <int>0</int>
           <int>0</int>
@@ -2816,14 +2828,26 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>89</int>
+            <int>10137</int>
           </ArrayOfInt>
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
+          <ArrayOfInt>
+            <int>104506</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>6498</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>47514</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>2890</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>5202</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>112</int>
+          </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
           <ArrayOfInt />
@@ -2831,7 +2855,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>E-2</Name>
-        <Fleet>1</Fleet>
+        <Fleet>3</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2848,10 +2872,8 @@
       <int>2</int>
       <int>3</int>
       <int>5</int>
-      <int>7</int>
       <int>8</int>
       <int>9</int>
-      <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
     <ChangeShipConfig>3</ChangeShipConfig>
@@ -7540,7 +7562,7 @@
   <AutoEquip>true</AutoEquip>
   <AutoEquipFuzzyMatching>true</AutoEquipFuzzyMatching>
   <AutoEquipUnwield>true</AutoEquipUnwield>
-  <AutoStopOnDropping>false</AutoStopOnDropping>
+  <AutoStopOnDropping>true</AutoStopOnDropping>
   <AutoChangeEventRank>false</AutoChangeEventRank>
   <EventRank>Rank_3</EventRank>
   <OperationAdvanceTime>40</OperationAdvanceTime>
