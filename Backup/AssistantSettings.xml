@@ -1,16 +1,16 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2017-11-25T15:34:16.5105782Z</BackupTime>
+  <BackupTime>2017-11-27T23:41:45.4305076Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
-  <TargetShips>Luigi Torelli</TargetShips>
+  <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
   <AutoRepairReserved>0</AutoRepairReserved>
   <AutoRepairOrder>0</AutoRepairOrder>
   <AutoExpeditionSettings>
     <AutoKiraOpen>
       <boolean>false</boolean>
-      <boolean>false</boolean>
-      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
       <boolean>true</boolean>
     </AutoKiraOpen>
     <KiraForSupport>
@@ -47,9 +47,9 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>0</int>
-      <int>0</int>
-      <int>0</int>
+      <int>38</int>
+      <int>6</int>
+      <int>2</int>
     </AutoExpeditionTargets>
     <AutoKiraSupplyFellows>false</AutoKiraSupplyFellows>
   </AutoExpeditionSettings>
@@ -197,6 +197,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>3-3</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
@@ -349,6 +350,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>3-2</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>33</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -498,6 +500,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>5-1</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -639,6 +642,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>偷油</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
         <SortieLimitTimesCounter>2</SortieLimitTimesCounter>
@@ -780,6 +784,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>54</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -904,6 +909,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>53瞪眼</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>71</SortieLimitTimes>
         <SortieLimitTimesCounter>71</SortieLimitTimesCounter>
@@ -1036,6 +1042,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>1-5单点</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1172,6 +1179,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>2-2</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1316,8 +1324,9 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>1-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>1</SortieLimitTimes>
+        <SortieLimitTimes>3</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -1454,6 +1463,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>熟练度</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1580,6 +1590,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>偷油练级</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -1734,6 +1745,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>水下54</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>50</SortieLimitTimes>
         <SortieLimitTimesCounter>50</SortieLimitTimesCounter>
@@ -1870,6 +1882,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>6-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>6</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2006,6 +2019,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>5-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2142,6 +2156,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>2-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>2</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2278,6 +2293,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>3-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>4</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2414,6 +2430,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>4-5</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2550,6 +2567,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>1-6</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>2</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2686,6 +2704,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>E-1</Name>
+        <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2697,7 +2716,7 @@
         <MapIndex>2</MapIndex>
         <IsEvent>true</IsEvent>
         <Strategy>打通</Strategy>
-        <BossStrategy>BOSS进夜战</BossStrategy>
+        <BossStrategy>BOSS存活时夜战</BossStrategy>
         <CustomFightNum>1</CustomFightNum>
         <Formation>单纵</Formation>
         <RepairTime>1</RepairTime>
@@ -2747,12 +2766,12 @@
             <int>0</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>175</int>
+            <int>270</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>175</int>
+            <int>270</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>0</int>
@@ -2778,9 +2797,15 @@
           <AirActionType>Ready</AirActionType>
           <AirActionType>Ready</AirActionType>
         </AdvanceAirActions>
-        <AutoChangeShipOpen>false</AutoChangeShipOpen>
+        <AutoChangeShipOpen>true</AutoChangeShipOpen>
         <DamageSettings>
-          <string>中破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>小破</string>
+          <string>擦伤</string>
           <string>中破</string>
           <string>中破</string>
           <string>中破</string>
@@ -2788,7 +2813,13 @@
           <string>中破</string>
         </DamageSettings>
         <ConditionSettings>
-          <int>0</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
+          <int>49</int>
           <int>0</int>
           <int>0</int>
           <int>0</int>
@@ -2797,14 +2828,26 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>89</int>
+            <int>10137</int>
           </ArrayOfInt>
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
+          <ArrayOfInt>
+            <int>104506</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>6498</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>47514</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>2890</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>5202</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>112</int>
+          </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
           <ArrayOfInt />
@@ -2812,6 +2855,7 @@
           <ArrayOfInt />
         </ChangeShips>
         <Name>E-2</Name>
+        <Fleet>3</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
@@ -2828,13 +2872,11 @@
       <int>2</int>
       <int>3</int>
       <int>5</int>
-      <int>7</int>
       <int>8</int>
       <int>9</int>
-      <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>8</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -7520,7 +7562,7 @@
   <AutoEquip>true</AutoEquip>
   <AutoEquipFuzzyMatching>true</AutoEquipFuzzyMatching>
   <AutoEquipUnwield>true</AutoEquipUnwield>
-  <AutoStopOnDropping>false</AutoStopOnDropping>
+  <AutoStopOnDropping>true</AutoStopOnDropping>
   <AutoChangeEventRank>false</AutoChangeEventRank>
   <EventRank>Rank_3</EventRank>
   <OperationAdvanceTime>40</OperationAdvanceTime>
