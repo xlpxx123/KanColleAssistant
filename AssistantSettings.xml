@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2017-11-27T23:41:45.4305076Z</BackupTime>
+  <BackupTime>2017-11-30T10:27:17.4380852Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -3007,7 +3007,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>8</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -5570,7 +5570,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>66</ID>
+                <ID>18861</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5588,7 +5588,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>5965</ID>
+                <ID>3504</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5605,7 +5605,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>22766</ID>
+                <ID>40226</ID>
                 <Name>16inch三連装砲 Mk.7</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -5623,7 +5623,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>502</ID>
+                <ID>13331</ID>
                 <Name>九一式徹甲弾</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -5658,10 +5658,10 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>18234</ID>
+                <ID>26674</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>0</Adept>
                 <Carry>21</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -5687,25 +5687,25 @@
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>46386</ID>
-            <Name>雲龍改</Name>
+            <ID>46794</ID>
+            <Name>葛城改</Name>
             <Type>正規空母</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>62611</ID>
+                <ID>22200</ID>
                 <Name>九七式艦攻(友永隊)</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>3</Adept>
                 <Carry>18</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>25997</ID>
+                <ID>105907</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>0</Adept>
                 <Carry>21</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -5755,7 +5755,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>27667</ID>
+                <ID>27670</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5799,16 +5799,16 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>58494</ID>
+                <ID>84489</ID>
                 <Name>Ro.43水偵</Name>
-                <Level>10</Level>
+                <Level>6</Level>
                 <Adept>7</Adept>
                 <Carry>7</Carry>
                 <IconType>ReconSeaplane</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>18861</ID>
+                <ID>11133</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5819,8 +5819,8 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>53.005956807703257</ViewRangeValue>
-        <AirSuperiority>366</AirSuperiority>
+        <ViewRangeValue>52.358786886094293</ViewRangeValue>
+        <AirSuperiority>359</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>6-5</Name>
