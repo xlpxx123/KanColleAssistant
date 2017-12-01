@@ -48,7 +48,7 @@
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
       <int>37</int>
-      <int>6</int>
+      <int>5</int>
       <int>2</int>
     </AutoExpeditionTargets>
     <AutoKiraSupplyFellows>false</AutoKiraSupplyFellows>
@@ -766,7 +766,7 @@
           </ArrayOfInt>
           <ArrayOfInt>
             <int>18048</int>
-            <int>46386</int>
+            <int>46794</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>145</int>
@@ -3007,7 +3007,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -7666,7 +7666,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>10</OrganizationConfig>
+    <OrganizationConfig>9</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
