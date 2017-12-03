@@ -198,9 +198,9 @@
         </ChangeShips>
         <Name>3-3</Name>
         <Fleet>1</Fleet>
-        <SortieLimitType>None</SortieLimitType>
+        <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
-        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -3007,7 +3007,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>13</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -7666,7 +7666,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>4</OrganizationConfig>
+    <OrganizationConfig>2</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
