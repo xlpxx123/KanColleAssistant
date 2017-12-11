@@ -2993,7 +2993,7 @@
       </ChangeShipSetting>
     </ChangeShipSettings>
     <AutoDissolutionOpen>true</AutoDissolutionOpen>
-    <AutoDissolutionThreshold>20</AutoDissolutionThreshold>
+    <AutoDissolutionThreshold>10</AutoDissolutionThreshold>
     <AutoDissolutionLvCondition>5</AutoDissolutionLvCondition>
     <AutoDissolutionRareCondition>虹色</AutoDissolutionRareCondition>
     <AutoDissolutionKiraReserved>true</AutoDissolutionKiraReserved>
