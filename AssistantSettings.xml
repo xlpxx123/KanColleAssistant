@@ -528,8 +528,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -670,8 +676,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -1207,8 +1219,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -1326,7 +1344,7 @@
         <Name>1-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>2</SortieLimitTimes>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
