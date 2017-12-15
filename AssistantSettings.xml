@@ -76,8 +76,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -391,8 +397,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
