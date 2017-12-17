@@ -339,7 +339,7 @@
             <int>39</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>106946</int>
+            <int>115773</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>148899</int>
@@ -348,7 +348,6 @@
             <int>424</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>131998</int>
             <int>134991</int>
             <int>135397</int>
             <int>137391</int>
@@ -3044,7 +3043,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>1</ChangeShipConfig>
+    <ChangeShipConfig>8</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
