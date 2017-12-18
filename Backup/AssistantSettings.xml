@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2017-12-16T00:28:37.3748607Z</BackupTime>
+  <BackupTime>2017-12-18T06:18:45.129189Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>37</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -231,8 +231,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -298,8 +304,8 @@
         </AdvanceAirActions>
         <AutoChangeShipOpen>true</AutoChangeShipOpen>
         <DamageSettings>
-          <string>中破</string>
           <string>大破</string>
+          <string>中破</string>
           <string>大破</string>
           <string>大破</string>
           <string>大破</string>
@@ -327,26 +333,26 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>30162</int>
+            <int>134776</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>39</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>115773</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>148899</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>424</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>52805</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>77302</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>31014</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>14887</int>
-            <int>45693</int>
-            <int>15331</int>
-            <int>32974</int>
-            <int>6761</int>
+            <int>134991</int>
+            <int>135397</int>
+            <int>137391</int>
+            <int>146944</int>
+            <int>148904</int>
           </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
@@ -4606,32 +4612,14 @@
         <Fleet>1</Fleet>
         <Ships>
           <ShipData>
-            <ID>30162</ID>
-            <Name>蒼龍</Name>
-            <Type>正規空母</Type>
+            <ID>134776</ID>
+            <Name>大鳳</Name>
+            <Type>装甲空母</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>5598</ID>
-                <Name>天山一二型(友永隊)</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>12</Carry>
-                <IconType>TorpedoBomber</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>932</ID>
-                <Name>彩雲</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>27</Carry>
-                <IconType>ReconPlane</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>13200</ID>
-                <Name>天山一二型(村田隊)</Name>
+                <ID>27670</ID>
+                <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
                 <Carry>18</Carry>
@@ -4639,13 +4627,127 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>63416</ID>
-                <Name>流星(六〇一空)</Name>
+                <ID>105907</ID>
+                <Name>流星改</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>18</Carry>
+                <IconType>TorpedoBomber</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>116012</ID>
+                <Name>流星改</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>18</Carry>
+                <IconType>TorpedoBomber</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>906</ID>
+                <Name>彩雲</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
                 <Carry>7</Carry>
-                <IconType>TorpedoBomber</IconType>
+                <IconType>ReconPlane</IconType>
                 <IsNumerable>true</IsNumerable>
+              </ItemData>
+            </Slots>
+          </ShipData>
+          <ShipData>
+            <ID>128347</ID>
+            <Name>大淀</Name>
+            <Type>軽巡洋艦</Type>
+            <Level>0</Level>
+            <Slots>
+              <ItemData>
+                <ID>19097</ID>
+                <Name>15.2cm連装砲改</Name>
+                <Level>10</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>95543</ID>
+                <Name>15.2cm連装砲改</Name>
+                <Level>10</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>153140</ID>
+                <Name>零式水上偵察機11型乙</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>6</Carry>
+                <IconType>ReconSeaplane</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+            </Slots>
+          </ShipData>
+          <ShipData>
+            <ID>128868</ID>
+            <Name>三隈</Name>
+            <Type>重巡洋艦</Type>
+            <Level>0</Level>
+            <Slots>
+              <ItemData>
+                <ID>9166</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>10</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>49019</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>10</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>189719</ID>
+                <Name>零式水上偵察機11型乙(熟練)</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>2</Carry>
+                <IconType>ReconSeaplane</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+            </Slots>
+          </ShipData>
+          <ShipData>
+            <ID>148899</ID>
+            <Name>北上</Name>
+            <Type>軽巡洋艦</Type>
+            <Level>0</Level>
+            <Slots>
+              <ItemData>
+                <ID>50159</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>90117</ID>
+                <Name>FuMO25 レーダー</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>Rader</IconType>
+                <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
           </ShipData>
@@ -4656,7 +4758,16 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>41611</ID>
+                <ID>40641</ID>
+                <Name>32号対水上電探</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>Rader</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>139669</ID>
                 <Name>試製晴嵐</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -4665,7 +4776,16 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>42622</ID>
+                <ID>115343</ID>
+                <Name>晴嵐(六三一空)</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>9</Carry>
+                <IconType>ReconSeaplane</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>42674</ID>
                 <Name>32号対水上電探</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -4673,132 +4793,18 @@
                 <IconType>Rader</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
-              <ItemData>
-                <ID>40577</ID>
-                <Name>32号対水上電探</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>Rader</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>52403</ID>
-                <Name>試製晴嵐</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>23</Carry>
-                <IconType>ReconSeaplane</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>52798</ID>
-            <Name>三隈</Name>
-            <Type>重巡洋艦</Type>
-            <Level>0</Level>
-            <Slots>
-              <ItemData>
-                <ID>3352</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>8200</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>82797</ID>
-                <Name>紫雲</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>2</Carry>
-                <IconType>ReconSeaplane</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-            </Slots>
-          </ShipData>
-          <ShipData>
-            <ID>77302</ID>
-            <Name>北上</Name>
-            <Type>軽巡洋艦</Type>
-            <Level>0</Level>
-            <Slots>
-              <ItemData>
-                <ID>13688</ID>
-                <Name>FuMO25 レーダー</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>Rader</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>42448</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-            </Slots>
-          </ShipData>
-          <ShipData>
-            <ID>31014</ID>
-            <Name>能代改</Name>
-            <Type>軽巡洋艦</Type>
-            <Level>0</Level>
-            <Slots>
-              <ItemData>
-                <ID>9166</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>49019</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>8</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>103422</ID>
-                <Name>紫雲</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>2</Carry>
-                <IconType>ReconSeaplane</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-            </Slots>
-          </ShipData>
-          <ShipData>
-            <ID>82196</ID>
+            <ID>131977</ID>
             <Name>まるゆ</Name>
             <Type>潜水艦</Type>
             <Level>0</Level>
             <Slots />
           </ShipData>
         </Ships>
-        <ViewRangeValue>50.272504821304281</ViewRangeValue>
-        <AirSuperiority>34</AirSuperiority>
+        <ViewRangeValue>44.595122432935995</ViewRangeValue>
+        <AirSuperiority>27</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>水打南方</Name>
@@ -7696,7 +7702,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>9</OrganizationConfig>
+    <OrganizationConfig>6</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
