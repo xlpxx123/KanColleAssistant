@@ -219,7 +219,7 @@
         <CustomFightNum>1</CustomFightNum>
         <Formation>复纵</Formation>
         <RepairTime>1</RepairTime>
-        <FlagshipLevelLimitOpen>true</FlagshipLevelLimitOpen>
+        <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
         <FlagshipLevelLimit>78</FlagshipLevelLimit>
         <SpecificMap>4-3</SpecificMap>
         <LogicItems />
@@ -339,17 +339,15 @@
             <int>39</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>115773</int>
+            <int>128861</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>148899</int>
+            <int>140158</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>424</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>134991</int>
-            <int>135397</int>
             <int>137391</int>
             <int>146944</int>
             <int>148904</int>
@@ -1362,7 +1360,7 @@
         <Name>1-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>1</SortieLimitTimes>
+        <SortieLimitTimes>3</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -3043,7 +3041,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>1</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
