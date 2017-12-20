@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2017-12-18T06:18:45.129189Z</BackupTime>
+  <BackupTime>2017-12-20T09:14:00.9909588Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -219,7 +219,7 @@
         <CustomFightNum>1</CustomFightNum>
         <Formation>复纵</Formation>
         <RepairTime>1</RepairTime>
-        <FlagshipLevelLimitOpen>true</FlagshipLevelLimitOpen>
+        <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
         <FlagshipLevelLimit>78</FlagshipLevelLimit>
         <SpecificMap>4-3</SpecificMap>
         <LogicItems />
@@ -339,17 +339,15 @@
             <int>39</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>115773</int>
+            <int>128861</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>148899</int>
+            <int>140158</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>424</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>134991</int>
-            <int>135397</int>
             <int>137391</int>
             <int>146944</int>
             <int>148904</int>
