@@ -646,10 +646,10 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>146874</int>
             <int>129350</int>
             <int>87279</int>
             <int>28889</int>
+            <int>374</int>
           </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
