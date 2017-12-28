@@ -2636,11 +2636,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-<<<<<<< HEAD
     <ChangeShipConfig>3</ChangeShipConfig>
-=======
-    <ChangeShipConfig>8</ChangeShipConfig>
->>>>>>> 33aad15ec8c732e5be774291223b73464bd50d01
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
