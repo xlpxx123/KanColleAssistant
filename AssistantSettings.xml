@@ -49,7 +49,7 @@
     <AutoExpeditionTargets>
       <int>37</int>
       <int>6</int>
-      <int>2</int>
+      <int>5</int>
     </AutoExpeditionTargets>
     <AutoKiraSupplyFellows>false</AutoKiraSupplyFellows>
   </AutoExpeditionSettings>
@@ -1366,8 +1366,8 @@
         <Name>1-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>1</SortieLimitTimes>
-        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
+        <SortieLimitTimes>10</SortieLimitTimes>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2648,7 +2648,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
