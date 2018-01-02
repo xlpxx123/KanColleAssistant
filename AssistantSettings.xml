@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2017-12-31T00:41:51.7154624Z</BackupTime>
+  <BackupTime>2018-01-02T09:26:34.8893423Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -49,7 +49,7 @@
     <AutoExpeditionTargets>
       <int>37</int>
       <int>6</int>
-      <int>5</int>
+      <int>2</int>
     </AutoExpeditionTargets>
     <AutoKiraSupplyFellows>false</AutoKiraSupplyFellows>
   </AutoExpeditionSettings>
