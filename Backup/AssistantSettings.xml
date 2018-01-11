@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-01-09T00:28:42.3510062Z</BackupTime>
+  <BackupTime>2018-01-11T10:21:45.5030016Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>37</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -1366,7 +1366,7 @@
         <Name>1-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>3</SortieLimitTimes>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -7340,7 +7340,7 @@
   <OperationAdvanceTime>40</OperationAdvanceTime>
   <PoiModeOpen>false</PoiModeOpen>
   <LogOpen>false</LogOpen>
-  <AutoF5Open>false</AutoF5Open>
+  <AutoF5Open>true</AutoF5Open>
   <GlobalKeyOpen>true</GlobalKeyOpen>
   <AutoRepairLvCondition>70</AutoRepairLvCondition>
   <NicknameType>Admiral</NicknameType>
