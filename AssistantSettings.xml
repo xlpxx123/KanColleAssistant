@@ -1343,13 +1343,13 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>146345</int>
+            <int>146196</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>129266</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>146196</int>
+            <int>104367</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>104342</int>
@@ -2648,7 +2648,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
