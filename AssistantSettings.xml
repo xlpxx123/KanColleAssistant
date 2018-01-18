@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-01-15T23:50:41.6527657Z</BackupTime>
+  <BackupTime>2018-01-17T23:57:43.6447801Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -681,7 +681,7 @@
         <Formation>单纵</Formation>
         <RepairTime>1</RepairTime>
         <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
-        <FlagshipLevelLimit>90</FlagshipLevelLimit>
+        <FlagshipLevelLimit>80</FlagshipLevelLimit>
         <SpecificMap>4-3</SpecificMap>
         <LogicItems />
         <AdvanceFormations>
@@ -2648,7 +2648,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>4</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
