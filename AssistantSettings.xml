@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-01-17T23:57:43.6447801Z</BackupTime>
+  <BackupTime>2018-01-20T00:50:15.9437889Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -681,7 +681,7 @@
         <Formation>单纵</Formation>
         <RepairTime>1</RepairTime>
         <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
-        <FlagshipLevelLimit>80</FlagshipLevelLimit>
+        <FlagshipLevelLimit>90</FlagshipLevelLimit>
         <SpecificMap>4-3</SpecificMap>
         <LogicItems />
         <AdvanceFormations>
@@ -1343,13 +1343,13 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>146196</int>
+            <int>146345</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>129266</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>104367</int>
+            <int>146196</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>104342</int>
@@ -1962,8 +1962,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2073,7 +2079,7 @@
         <Name>5-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>5</SortieLimitTimes>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2099,8 +2105,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2210,7 +2222,7 @@
         <Name>2-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>2</SortieLimitTimes>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2236,8 +2248,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2347,7 +2365,7 @@
         <Name>3-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>4</SortieLimitTimes>
+        <SortieLimitTimes>2</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2373,18 +2391,12 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>true</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2633,8 +2645,8 @@
         <Name>1-6</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
-        <SortieLimitTimes>2</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimes>3</SortieLimitTimes>
+        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2654,19 +2666,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    <ChangeShipConfig>16</ChangeShipConfig>
-=======
     <ChangeShipConfig>3</ChangeShipConfig>
->>>>>>> 150c247809fa3334942e3379c64d178c629bad26
-=======
-    <ChangeShipConfig>8</ChangeShipConfig>
->>>>>>> parent of 150c247... 18-01-19-2
-=======
-    <ChangeShipConfig>3</ChangeShipConfig>
->>>>>>> parent of 3fbb78b... 18-01-19
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -7325,7 +7325,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>0</OrganizationConfig>
+    <OrganizationConfig>10</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
