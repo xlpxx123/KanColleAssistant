@@ -1343,13 +1343,13 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>146345</int>
+            <int>146196</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>129266</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>146196</int>
+            <int>104367</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>104342</int>
@@ -2656,6 +2656,7 @@
     </AutoDissolutionShipTypes>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <ChangeShipConfig>16</ChangeShipConfig>
 =======
     <ChangeShipConfig>3</ChangeShipConfig>
@@ -2663,6 +2664,9 @@
 =======
     <ChangeShipConfig>8</ChangeShipConfig>
 >>>>>>> parent of 150c247... 18-01-19-2
+=======
+    <ChangeShipConfig>3</ChangeShipConfig>
+>>>>>>> parent of 3fbb78b... 18-01-19
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
