@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-01-20T00:50:15.9437889Z</BackupTime>
+  <BackupTime>2018-01-22T10:17:32.2437797Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -793,8 +793,8 @@
             <int>3318</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>18048</int>
             <int>46794</int>
+            <int>46386</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>145</int>
@@ -1343,13 +1343,13 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>146196</int>
+            <int>146345</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>129266</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>104367</int>
+            <int>146196</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>104342</int>
@@ -1962,8 +1962,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2073,7 +2079,7 @@
         <Name>5-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>5</SortieLimitTimes>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2099,8 +2105,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2210,7 +2222,7 @@
         <Name>2-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>2</SortieLimitTimes>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2236,8 +2248,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2347,7 +2365,7 @@
         <Name>3-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
-        <SortieLimitTimes>4</SortieLimitTimes>
+        <SortieLimitTimes>2</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2627,8 +2645,8 @@
         <Name>1-6</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
-        <SortieLimitTimes>2</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimes>3</SortieLimitTimes>
+        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2648,7 +2666,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>4</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -5211,7 +5229,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>40965</ID>
+                <ID>9635</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5220,7 +5238,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>3169</ID>
+                <ID>20808</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5229,7 +5247,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>3504</ID>
+                <ID>37430</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5290,7 +5308,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>2436</ID>
+                <ID>25997</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5299,7 +5317,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>64127</ID>
+                <ID>27667</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5319,7 +5337,7 @@
               <ItemData>
                 <ID>155376</ID>
                 <Name>F6F-5</Name>
-                <Level>0</Level>
+                <Level>4</Level>
                 <Adept>7</Adept>
                 <Carry>9</Carry>
                 <IconType>Fighter</IconType>
@@ -5328,22 +5346,22 @@
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>18048</ID>
-            <Name>天城改</Name>
+            <ID>46386</ID>
+            <Name>雲龍改</Name>
             <Type>正規空母</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>44537</ID>
+                <ID>22200</ID>
                 <Name>九七式艦攻(友永隊)</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>1</Adept>
                 <Carry>18</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>20919</ID>
+                <ID>94622</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5361,7 +5379,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>489</ID>
+                <ID>94653</ID>
                 <Name>彩雲</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5387,7 +5405,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>62296</ID>
+                <ID>91253</ID>
                 <Name>烈風改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5396,7 +5414,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>25997</ID>
+                <ID>18234</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5422,7 +5440,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>3352</ID>
+                <ID>23826</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -5431,7 +5449,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>7922</ID>
+                <ID>59705</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5449,7 +5467,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>8200</ID>
+                <ID>42448</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -5460,7 +5478,7 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>49.732599449320418</ViewRangeValue>
+        <ViewRangeValue>50.182719075924737</ViewRangeValue>
         <AirSuperiority>364</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
@@ -7307,7 +7325,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>4</OrganizationConfig>
+    <OrganizationConfig>9</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
