@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-01-22T10:17:32.2437797Z</BackupTime>
+  <BackupTime>2018-01-24T23:59:50.7768897Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -1463,7 +1463,7 @@
           <AirActionType>Ready</AirActionType>
           <AirActionType>Ready</AirActionType>
         </AdvanceAirActions>
-        <AutoChangeShipOpen>false</AutoChangeShipOpen>
+        <AutoChangeShipOpen>true</AutoChangeShipOpen>
         <DamageSettings>
           <string>中破</string>
           <string>中破</string>
@@ -7325,7 +7325,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>9</OrganizationConfig>
+    <OrganizationConfig>10</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
