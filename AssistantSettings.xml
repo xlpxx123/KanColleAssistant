@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-02-13T23:14:14.7884213Z</BackupTime>
+  <BackupTime>2018-02-15T23:55:46.5182566Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -815,7 +815,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>4</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2672,7 +2672,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>4</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
