@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-02-19T01:19:21.2324933Z</BackupTime>
+  <BackupTime>2018-02-21T03:01:58.586138Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>対馬</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -1366,7 +1366,7 @@
         <Name>1-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>1</SortieLimitTimes>
+        <SortieLimitTimes>3</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -2651,8 +2651,8 @@
         <Name>1-6</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
-        <SortieLimitTimes>3</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimes>7</SortieLimitTimes>
+        <SortieLimitTimesCounter>7</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2672,7 +2672,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>17</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -7367,6 +7367,7 @@
   <AutoF5Open>true</AutoF5Open>
   <GlobalKeyOpen>true</GlobalKeyOpen>
   <AutoRepairLvCondition>70</AutoRepairLvCondition>
+  <AutoDevelopNum>0</AutoDevelopNum>
   <NicknameType>Admiral</NicknameType>
   <AdvanceSettingType>Battle</AdvanceSettingType>
 </AssistantSettings>
