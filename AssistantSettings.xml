@@ -2801,7 +2801,7 @@
       </ChangeShipSetting>
     </ChangeShipSettings>
     <AutoDissolutionOpen>true</AutoDissolutionOpen>
-    <AutoDissolutionThreshold>3</AutoDissolutionThreshold>
+    <AutoDissolutionThreshold>10</AutoDissolutionThreshold>
     <AutoDissolutionLvCondition>5</AutoDissolutionLvCondition>
     <AutoDissolutionRareCondition>虹色</AutoDissolutionRareCondition>
     <AutoDissolutionKiraReserved>true</AutoDissolutionKiraReserved>
@@ -2815,7 +2815,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>18</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
