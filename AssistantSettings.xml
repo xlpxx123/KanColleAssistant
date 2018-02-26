@@ -16,20 +16,20 @@
     <KiraForSupport>
       <boolean>true</boolean>
       <boolean>false</boolean>
-      <boolean>false</boolean>
-      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
       <int>4</int>
       <int>6</int>
-      <int>5</int>
+      <int>6</int>
     </AutoKiraCount>
     <AutoKiraTargetCond>
       <int>85</int>
       <int>75</int>
-      <int>75</int>
-      <int>75</int>
+      <int>80</int>
+      <int>80</int>
     </AutoKiraTargetCond>
     <AutoKiraFilter>
       <string>顺序</string>
@@ -2990,7 +2990,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>19</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
