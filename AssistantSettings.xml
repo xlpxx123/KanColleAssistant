@@ -3170,12 +3170,12 @@
         </AdvanceSelectPoint>
         <AdvanceAirPoint>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>600</int>
+            <int>240</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>600</int>
+            <int>240</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>545</int>
