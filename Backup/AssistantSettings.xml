@@ -1,24 +1,8 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <BackupTime>2018-03-06T09:42:30.8196779Z</BackupTime>
-=======
   <BackupTime>2018-03-05T23:43:04.6018061Z</BackupTime>
->>>>>>> bdc4e6914ee01f2819d7b3616a0dde692010e753
-=======
-  <BackupTime>2018-03-03T23:42:58.093827Z</BackupTime>
->>>>>>> parent of bdc4e69... 18-03-06
-=======
-  <BackupTime>2018-03-01T23:03:10.7071122Z</BackupTime>
->>>>>>> parent of e1d4f70... 18-03-04-2
-=======
-  <BackupTime>2018-03-03T23:42:58.093827Z</BackupTime>
->>>>>>> parent of bdc4e69... 18-03-06
   <LoadError>0001-01-01T00:00:00</LoadError>
-  <TargetShips>浜波</TargetShips>
+  <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
   <AutoRepairReserved>0</AutoRepairReserved>
   <AutoRepairOrder>0</AutoRepairOrder>
@@ -3133,8 +3117,6 @@
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
-<<<<<<< HEAD
-=======
       <ChangeShipSetting>
         <MapArea>3</MapArea>
         <MapIndex>6</MapIndex>
@@ -3188,12 +3170,12 @@
         </AdvanceSelectPoint>
         <AdvanceAirPoint>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>600</int>
+            <int>240</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>600</int>
+            <int>240</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>545</int>
@@ -3249,10 +3231,10 @@
             <int>117</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>331</int>
+            <int>113</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>3035</int>
+            <int>331</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>2614</int>
@@ -3278,7 +3260,6 @@
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
->>>>>>> parent of bdc4e69... 18-03-06
     </ChangeShipSettings>
     <AutoDissolutionOpen>true</AutoDissolutionOpen>
     <AutoDissolutionThreshold>10</AutoDissolutionThreshold>
@@ -3295,7 +3276,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>21</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
