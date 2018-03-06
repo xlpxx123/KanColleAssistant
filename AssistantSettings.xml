@@ -2,6 +2,7 @@
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <BackupTime>2018-03-06T09:42:30.8196779Z</BackupTime>
 =======
   <BackupTime>2018-03-05T23:43:04.6018061Z</BackupTime>
@@ -9,6 +10,9 @@
 =======
   <BackupTime>2018-03-03T23:42:58.093827Z</BackupTime>
 >>>>>>> parent of bdc4e69... 18-03-06
+=======
+  <BackupTime>2018-03-01T23:03:10.7071122Z</BackupTime>
+>>>>>>> parent of e1d4f70... 18-03-04-2
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -3239,10 +3243,10 @@
             <int>117</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>113</int>
+            <int>331</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>331</int>
+            <int>3035</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>2614</int>
