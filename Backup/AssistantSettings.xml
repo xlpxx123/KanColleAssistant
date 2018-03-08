@@ -1,10 +1,14 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <BackupTime>2018-03-08T09:30:03.795201Z</BackupTime>
 =======
   <BackupTime>2018-03-07T23:54:26.9955602Z</BackupTime>
 >>>>>>> 120464f215348fe92bc4f9b51a1bcde073cd1661
+=======
+  <BackupTime>2018-03-05T23:43:04.6018061Z</BackupTime>
+>>>>>>> parent of 120464f... 18-03-08
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -1370,7 +1374,7 @@
         <Name>1-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>3</SortieLimitTimes>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
