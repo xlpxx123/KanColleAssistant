@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD
   <BackupTime>2018-03-08T09:30:03.795201Z</BackupTime>
+=======
+  <BackupTime>2018-03-07T23:54:26.9955602Z</BackupTime>
+>>>>>>> 120464f215348fe92bc4f9b51a1bcde073cd1661
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>

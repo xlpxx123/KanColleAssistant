@@ -1,6 +1,10 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD
   <BackupTime>2018-03-08T09:30:03.795201Z</BackupTime>
+=======
+  <BackupTime>2018-03-07T23:54:26.9955602Z</BackupTime>
+>>>>>>> 120464f215348fe92bc4f9b51a1bcde073cd1661
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -21,7 +25,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>4</int>
+      <int>5</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
@@ -1367,7 +1371,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>3</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>3</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -7935,7 +7939,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>1</OrganizationConfig>
+    <OrganizationConfig>12</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
