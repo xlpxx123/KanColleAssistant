@@ -10,8 +10,8 @@
     <AutoKiraOpen>
       <boolean>false</boolean>
       <boolean>true</boolean>
-      <boolean>true</boolean>
-      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
     </AutoKiraOpen>
     <KiraForSupport>
       <boolean>true</boolean>
@@ -21,7 +21,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>5</int>
+      <int>6</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
