@@ -8,10 +8,10 @@
   <AutoRepairOrder>0</AutoRepairOrder>
   <AutoExpeditionSettings>
     <AutoKiraOpen>
+      <boolean>true</boolean>
       <boolean>false</boolean>
-      <boolean>true</boolean>
-      <boolean>true</boolean>
-      <boolean>true</boolean>
+      <boolean>false</boolean>
+      <boolean>false</boolean>
     </AutoKiraOpen>
     <KiraForSupport>
       <boolean>true</boolean>
@@ -21,9 +21,9 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>4</int>
       <int>6</int>
-      <int>5</int>
+      <int>6</int>
+      <int>6</int>
     </AutoKiraCount>
     <AutoKiraTargetCond>
       <int>75</int>
@@ -1367,7 +1367,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
-        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
