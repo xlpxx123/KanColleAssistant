@@ -8,10 +8,10 @@
   <AutoRepairOrder>0</AutoRepairOrder>
   <AutoExpeditionSettings>
     <AutoKiraOpen>
+      <boolean>false</boolean>
       <boolean>true</boolean>
-      <boolean>false</boolean>
-      <boolean>false</boolean>
-      <boolean>false</boolean>
+      <boolean>true</boolean>
+      <boolean>true</boolean>
     </AutoKiraOpen>
     <KiraForSupport>
       <boolean>true</boolean>
@@ -21,12 +21,12 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
+      <int>4</int>
       <int>6</int>
-      <int>6</int>
-      <int>6</int>
+      <int>5</int>
     </AutoKiraCount>
     <AutoKiraTargetCond>
-      <int>75</int>
+      <int>85</int>
       <int>75</int>
       <int>75</int>
       <int>75</int>
@@ -2664,15 +2664,15 @@
         <BossStrategy>BOSS进夜战</BossStrategy>
         <CustomFightNum>1</CustomFightNum>
         <Formation>单纵</Formation>
-        <RepairTime>1</RepairTime>
+        <RepairTime>0.5</RepairTime>
         <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
         <FlagshipLevelLimit>0</FlagshipLevelLimit>
         <SpecificMap>4-3</SpecificMap>
         <LogicItems />
         <AdvanceFormations>
           <string>单横</string>
-          <string>单纵</string>
-          <string>单纵</string>
+          <string>警戒</string>
+          <string>单横</string>
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
@@ -2684,7 +2684,7 @@
         <AdvanceNightFight>
           <boolean>false</boolean>
           <boolean>false</boolean>
-          <boolean>true</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2694,168 +2694,13 @@
           <boolean>false</boolean>
         </AdvanceNightFight>
         <AdvanceSelectPoint>
+          <ArrayOfInt>
+            <int>265</int>
+            <int>170</int>
+          </ArrayOfInt>
           <ArrayOfInt>
             <int>325</int>
-            <int>275</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-        </AdvanceSelectPoint>
-        <AdvanceAirPoint>
-          <ArrayOfInt>
-            <int>550</int>
-            <int>300</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>550</int>
-            <int>300</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-        </AdvanceAirPoint>
-        <AdvanceAirWaitCond>true</AdvanceAirWaitCond>
-        <AdvanceAirAutoRest>false</AdvanceAirAutoRest>
-        <AdvanceAirActions>
-          <AirActionType>Ready</AirActionType>
-          <AirActionType>Ready</AirActionType>
-          <AirActionType>Ready</AirActionType>
-        </AdvanceAirActions>
-        <AutoChangeShipOpen>true</AutoChangeShipOpen>
-        <DamageSettings>
-          <string>小破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>中破</string>
-        </DamageSettings>
-        <ConditionSettings>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-        </ConditionSettings>
-        <ChangeShips>
-          <ArrayOfInt>
-            <int>38467</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>6561</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>20</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>9482</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>17791</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>8269</int>
-          </ArrayOfInt>
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-        </ChangeShips>
-        <Name>旗风</Name>
-        <Fleet>1</Fleet>
-        <SortieLimitType>None</SortieLimitType>
-        <SortieLimitTimes>0</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
-        <UseAdvanceSettings>true</UseAdvanceSettings>
-        <AdvanceSettingType>Battle</AdvanceSettingType>
-      </ChangeShipSetting>
-      <ChangeShipSetting>
-        <MapArea>3</MapArea>
-        <MapIndex>4</MapIndex>
-        <IsEvent>true</IsEvent>
-        <Strategy>打通</Strategy>
-        <BossStrategy>BOSS进夜战</BossStrategy>
-        <CustomFightNum>1</CustomFightNum>
-        <Formation>单纵</Formation>
-        <RepairTime>1</RepairTime>
-        <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
-        <FlagshipLevelLimit>0</FlagshipLevelLimit>
-        <SpecificMap>4-3</SpecificMap>
-        <LogicItems />
-        <AdvanceFormations>
-          <string>单横</string>
-          <string>轮型</string>
-          <string>轮型</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-        </AdvanceFormations>
-        <AdvanceNightFight>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>true</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-        </AdvanceNightFight>
-        <AdvanceSelectPoint>
-          <ArrayOfInt>
-            <int>535</int>
-            <int>250</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>210</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>0</int>
@@ -2864,175 +2709,12 @@
         </AdvanceSelectPoint>
         <AdvanceAirPoint>
           <ArrayOfInt>
-            <int>535</int>
-            <int>250</int>
+            <int>355</int>
+            <int>120</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>535</int>
-            <int>250</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-        </AdvanceAirPoint>
-        <AdvanceAirWaitCond>true</AdvanceAirWaitCond>
-        <AdvanceAirAutoRest>false</AdvanceAirAutoRest>
-        <AdvanceAirActions>
-          <AirActionType>Ready</AirActionType>
-          <AirActionType>Ready</AirActionType>
-          <AirActionType>Ready</AirActionType>
-        </AdvanceAirActions>
-        <AutoChangeShipOpen>true</AutoChangeShipOpen>
-        <DamageSettings>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>中破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>中破</string>
-        </DamageSettings>
-        <ConditionSettings>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>0</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>0</int>
-        </ConditionSettings>
-        <ChangeShips>
-          <ArrayOfInt>
-            <int>98292</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>40</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>113</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>98729</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>510</int>
-          </ArrayOfInt>
-          <ArrayOfInt />
-          <ArrayOfInt>
-            <int>20222</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>3630</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>331</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>9948</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>3035</int>
-          </ArrayOfInt>
-          <ArrayOfInt />
-        </ChangeShips>
-        <Name>大东</Name>
-        <Fleet>1</Fleet>
-        <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>6</SortieLimitTimes>
-        <SortieLimitTimesCounter>2</SortieLimitTimesCounter>
-        <UseAdvanceSettings>true</UseAdvanceSettings>
-        <AdvanceSettingType>Battle</AdvanceSettingType>
-      </ChangeShipSetting>
-      <ChangeShipSetting>
-        <MapArea>3</MapArea>
-        <MapIndex>5</MapIndex>
-        <IsEvent>true</IsEvent>
-        <Strategy>打通</Strategy>
-        <BossStrategy>BOSS不夜战</BossStrategy>
-        <CustomFightNum>1</CustomFightNum>
-        <Formation>单纵</Formation>
-        <RepairTime>1</RepairTime>
-        <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
-        <FlagshipLevelLimit>0</FlagshipLevelLimit>
-        <SpecificMap>4-3</SpecificMap>
-        <LogicItems />
-        <AdvanceFormations>
-          <string>轮型</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-        </AdvanceFormations>
-        <AdvanceNightFight>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-        </AdvanceNightFight>
-        <AdvanceSelectPoint>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-        </AdvanceSelectPoint>
-        <AdvanceAirPoint>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
+            <int>355</int>
+            <int>120</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>0</int>
@@ -3068,12 +2750,12 @@
         </AdvanceAirActions>
         <AutoChangeShipOpen>true</AutoChangeShipOpen>
         <DamageSettings>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
         </DamageSettings>
         <ConditionSettings>
           <int>49</int>
@@ -3085,22 +2767,28 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>124</int>
+            <int>163527</int>
+            <int>163876</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>51</int>
+            <int>146196</int>
+            <int>146345</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>2614</int>
+            <int>17791</int>
+            <int>129266</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>2656</int>
+            <int>47025</int>
+            <int>104596</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>18090</int>
+            <int>104342</int>
+            <int>6391</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>117</int>
+            <int>99</int>
+            <int>20</int>
           </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
@@ -3109,150 +2797,7 @@
           <ArrayOfInt />
           <ArrayOfInt />
         </ChangeShips>
-        <Name>滨波</Name>
-        <Fleet>1</Fleet>
-        <SortieLimitType>None</SortieLimitType>
-        <SortieLimitTimes>0</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
-        <UseAdvanceSettings>true</UseAdvanceSettings>
-        <AdvanceSettingType>Battle</AdvanceSettingType>
-      </ChangeShipSetting>
-      <ChangeShipSetting>
-        <MapArea>3</MapArea>
-        <MapIndex>6</MapIndex>
-        <IsEvent>true</IsEvent>
-        <Strategy>打通</Strategy>
-        <BossStrategy>BOSS不夜战</BossStrategy>
-        <CustomFightNum>1</CustomFightNum>
-        <Formation>单纵</Formation>
-        <RepairTime>1</RepairTime>
-        <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
-        <FlagshipLevelLimit>0</FlagshipLevelLimit>
-        <SpecificMap>4-3</SpecificMap>
-        <LogicItems />
-        <AdvanceFormations>
-          <string>轮型</string>
-          <string>单横</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>轮型</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-        </AdvanceFormations>
-        <AdvanceNightFight>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-          <boolean>false</boolean>
-        </AdvanceNightFight>
-        <AdvanceSelectPoint>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-        </AdvanceSelectPoint>
-        <AdvanceAirPoint>
-          <ArrayOfInt>
-            <int>600</int>
-            <int>240</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>600</int>
-            <int>240</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>545</int>
-            <int>225</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>545</int>
-            <int>225</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>0</int>
-            <int>0</int>
-          </ArrayOfInt>
-        </AdvanceAirPoint>
-        <AdvanceAirWaitCond>true</AdvanceAirWaitCond>
-        <AdvanceAirAutoRest>false</AdvanceAirAutoRest>
-        <AdvanceAirActions>
-          <AirActionType>Ready</AirActionType>
-          <AirActionType>Ready</AirActionType>
-          <AirActionType>Ready</AirActionType>
-        </AdvanceAirActions>
-        <AutoChangeShipOpen>true</AutoChangeShipOpen>
-        <DamageSettings>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-          <string>小破</string>
-        </DamageSettings>
-        <ConditionSettings>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-          <int>49</int>
-        </ConditionSettings>
-        <ChangeShips>
-          <ArrayOfInt>
-            <int>117</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>113</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>331</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>2614</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>2656</int>
-          </ArrayOfInt>
-          <ArrayOfInt>
-            <int>18090</int>
-          </ArrayOfInt>
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-        </ChangeShips>
-        <Name>Ташкент</Name>
+        <Name>马路油</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
@@ -3273,10 +2818,9 @@
       <int>7</int>
       <int>8</int>
       <int>9</int>
-      <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>18</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -8251,9 +7795,9 @@
   <AutoEquip>true</AutoEquip>
   <AutoEquipFuzzyMatching>true</AutoEquipFuzzyMatching>
   <AutoEquipUnwield>true</AutoEquipUnwield>
-  <AutoStopOnDropping>true</AutoStopOnDropping>
+  <AutoStopOnDropping>false</AutoStopOnDropping>
   <AutoChangeEventRank>false</AutoChangeEventRank>
-  <EventRank>Rank_1</EventRank>
+  <EventRank>Rank_4</EventRank>
   <OperationAdvanceTime>40</OperationAdvanceTime>
   <PoiModeOpen>false</PoiModeOpen>
   <LogOpen>false</LogOpen>
