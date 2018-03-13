@@ -21,7 +21,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>4</int>
+      <int>5</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>38</int>
+      <int>5</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
