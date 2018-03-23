@@ -1,14 +1,10 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <<<<<<< HEAD
-<<<<<<< HEAD
   <BackupTime>2018-03-23T11:10:20.7178953Z</BackupTime>
 =======
   <BackupTime>2018-03-22T23:56:00.8453612Z</BackupTime>
 >>>>>>> e04c3ede1a2c204ac73c808d02bc62911acb3335
-=======
-  <BackupTime>2018-03-20T23:13:38.6807861Z</BackupTime>
->>>>>>> parent of e04c3ed... 18-03-23
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
