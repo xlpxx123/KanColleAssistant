@@ -8,7 +8,7 @@
   <AutoRepairOrder>0</AutoRepairOrder>
   <AutoExpeditionSettings>
     <AutoKiraOpen>
-      <boolean>false</boolean>
+      <boolean>true</boolean>
       <boolean>true</boolean>
       <boolean>true</boolean>
       <boolean>true</boolean>
@@ -7658,7 +7658,7 @@
   <OperationAdvanceTime>40</OperationAdvanceTime>
   <PoiModeOpen>false</PoiModeOpen>
   <LogOpen>false</LogOpen>
-  <AutoF5Open>true</AutoF5Open>
+  <AutoF5Open>false</AutoF5Open>
   <GlobalKeyOpen>true</GlobalKeyOpen>
   <AutoRepairLvCondition>70</AutoRepairLvCondition>
   <AutoDevelopNum>0</AutoDevelopNum>
