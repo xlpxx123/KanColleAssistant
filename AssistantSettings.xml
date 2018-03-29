@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-03-27T10:44:10.9369311Z</BackupTime>
+  <BackupTime>2018-03-29T12:52:24.5799453Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -333,24 +333,26 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>134776</int>
+            <int>166436</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>39</int>
+            <int>2244</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>128861</int>
+            <int>164153</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>140158</int>
+            <int>128347</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>424</int>
+            <int>164145</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>137391</int>
-            <int>146944</int>
-            <int>148904</int>
+            <int>166786</int>
+            <int>166870</int>
+            <int>166936</int>
+            <int>166946</int>
+            <int>167018</int>
           </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
@@ -2668,7 +2670,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>4</ChangeShipConfig>
+    <ChangeShipConfig>1</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
