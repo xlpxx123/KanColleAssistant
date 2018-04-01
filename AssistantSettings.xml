@@ -21,7 +21,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>5</int>
+      <int>4</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>5</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -348,8 +348,6 @@
             <int>164145</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>167432</int>
-            <int>167515</int>
             <int>167645</int>
             <int>168033</int>
             <int>167678</int>
@@ -7336,7 +7334,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>10</OrganizationConfig>
+    <OrganizationConfig>12</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
