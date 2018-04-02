@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-03-31T13:33:52.8970206Z</BackupTime>
+  <BackupTime>2018-04-02T13:50:51.2998322Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -339,7 +339,7 @@
             <int>2244</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>165639</int>
+            <int>50</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>128347</int>
@@ -348,11 +348,6 @@
             <int>164145</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>167280</int>
-            <int>167468</int>
-            <int>167392</int>
-            <int>167432</int>
-            <int>167515</int>
             <int>167645</int>
             <int>168033</int>
             <int>167678</int>
@@ -1386,8 +1381,8 @@
         <Name>1-5</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>1</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimes>10</SortieLimitTimes>
+        <SortieLimitTimesCounter>2</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2685,10 +2680,11 @@
     <AutoDissolutionShipTypes>
       <int>2</int>
       <int>3</int>
+      <int>5</int>
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>1</ChangeShipConfig>
+    <ChangeShipConfig>8</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -7338,7 +7334,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>10</OrganizationConfig>
+    <OrganizationConfig>12</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
