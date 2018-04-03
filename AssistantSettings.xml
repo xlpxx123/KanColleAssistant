@@ -21,7 +21,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>4</int>
+      <int>5</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>38</int>
+      <int>5</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -798,7 +798,7 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>20222</int>
+            <int>165640</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>588</int>
@@ -817,7 +817,8 @@
             <int>445</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>30209</int>
+            <int>6498</int>
+            <int>117</int>
           </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
@@ -829,7 +830,7 @@
         <Name>54</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
-        <SortieLimitTimes>2</SortieLimitTimes>
+        <SortieLimitTimes>10</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -1382,7 +1383,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
-        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -1952,7 +1953,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>6</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>6</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2095,7 +2096,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
-        <SortieLimitTimesCounter>5</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2684,7 +2685,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>8</ChangeShipConfig>
+    <ChangeShipConfig>13</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -4987,31 +4988,31 @@
         <Fleet>1</Fleet>
         <Ships>
           <ShipData>
-            <ID>20222</ID>
-            <Name>長波改二</Name>
+            <ID>165640</ID>
+            <Name>Ташкент</Name>
             <Type>駆逐艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
+                <ID>32441</ID>
+                <Name>ドラム缶(輸送用)</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>DrumCanister</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>42894</ID>
+                <Name>ドラム缶(輸送用)</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>DrumCanister</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
                 <ID>41320</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>58198</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>18861</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5037,7 +5038,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>36224</ID>
+                <ID>15819</ID>
                 <Name>試製41cm三連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -5055,7 +5056,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>82797</ID>
+                <ID>103422</ID>
                 <Name>紫雲</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5084,7 +5085,7 @@
                 <ID>22200</ID>
                 <Name>九七式艦攻(友永隊)</Name>
                 <Level>0</Level>
-                <Adept>5</Adept>
+                <Adept>6</Adept>
                 <Carry>24</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -5125,10 +5126,10 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>64127</ID>
+                <ID>105900</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
-                <Adept>6</Adept>
+                <Adept>7</Adept>
                 <Carry>21</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -5178,10 +5179,10 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>116012</ID>
+                <ID>20919</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
-                <Adept>6</Adept>
+                <Adept>7</Adept>
                 <Carry>11</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -5198,13 +5199,31 @@
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>30209</ID>
-            <Name>高波改</Name>
-            <Type>駆逐艦</Type>
+            <ID>117</ID>
+            <Name>鈴谷改二</Name>
+            <Type>航空巡洋艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>65</ID>
+                <ID>50159</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>23826</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>51094</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5212,6 +5231,31 @@
                 <IconType>DrumCanister</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
+              <ItemData>
+                <ID>153140</ID>
+                <Name>零式水上偵察機11型乙</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>11</Carry>
+                <IconType>ReconSeaplane</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+            </Slots>
+          </ShipData>
+        </Ships>
+        <ViewRangeValue>48.328299491498228</ViewRangeValue>
+        <AirSuperiority>387</AirSuperiority>
+      </OrganizationSetting>
+      <OrganizationSetting>
+        <Name>54-2</Name>
+        <Fleet>1</Fleet>
+        <Ships>
+          <ShipData>
+            <ID>165640</ID>
+            <Name>Ташкент</Name>
+            <Type>駆逐艦</Type>
+            <Level>0</Level>
+            <Slots>
               <ItemData>
                 <ID>32441</ID>
                 <Name>ドラム缶(輸送用)</Name>
@@ -5222,7 +5266,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>35712</ID>
+                <ID>42894</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5230,42 +5274,8 @@
                 <IconType>DrumCanister</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
-            </Slots>
-          </ShipData>
-        </Ships>
-        <ViewRangeValue>39.934796538186873</ViewRangeValue>
-        <AirSuperiority>386</AirSuperiority>
-      </OrganizationSetting>
-      <OrganizationSetting>
-        <Name>54-2</Name>
-        <Fleet>1</Fleet>
-        <Ships>
-          <ShipData>
-            <ID>20222</ID>
-            <Name>長波改二</Name>
-            <Type>駆逐艦</Type>
-            <Level>0</Level>
-            <Slots>
               <ItemData>
                 <ID>41320</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>58198</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>18861</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5309,7 +5319,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>103422</ID>
+                <ID>82797</ID>
                 <Name>紫雲</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5335,21 +5345,21 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>2436</ID>
-                <Name>流星改</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>24</Carry>
-                <IconType>TorpedoBomber</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-              <ItemData>
                 <ID>94633</ID>
                 <Name>零式艦戦52型(熟練)</Name>
                 <Level>10</Level>
                 <Adept>7</Adept>
                 <Carry>24</Carry>
                 <IconType>Fighter</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>27670</ID>
+                <Name>流星改</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>24</Carry>
+                <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
@@ -5379,7 +5389,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>20919</ID>
+                <ID>2436</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5397,7 +5407,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>94651</ID>
+                <ID>932</ID>
                 <Name>彩雲</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5452,13 +5462,31 @@
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>30209</ID>
-            <Name>高波改</Name>
-            <Type>駆逐艦</Type>
+            <ID>6498</ID>
+            <Name>熊野改二</Name>
+            <Type>航空巡洋艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>65</ID>
+                <ID>42448</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>44090</ID>
+                <Name>20.3cm(3号)連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>18861</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5467,27 +5495,18 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>32441</ID>
-                <Name>ドラム缶(輸送用)</Name>
+                <ID>155378</ID>
+                <Name>零式水上偵察機11型乙</Name>
                 <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>35712</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
+                <Adept>7</Adept>
+                <Carry>11</Carry>
+                <IconType>ReconSeaplane</IconType>
+                <IsNumerable>true</IsNumerable>
               </ItemData>
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>34.224709544949263</ViewRangeValue>
+        <ViewRangeValue>42.369319683113687</ViewRangeValue>
         <AirSuperiority>354</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
@@ -7334,7 +7353,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>9</OrganizationConfig>
+    <OrganizationConfig>4</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
