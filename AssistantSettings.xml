@@ -21,7 +21,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>5</int>
+      <int>4</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>5</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -1680,8 +1680,14 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
         </AdvanceFormations>
         <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
           <boolean>false</boolean>
@@ -2687,7 +2693,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>17</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
