@@ -2674,7 +2674,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>7</SortieLimitTimes>
-        <SortieLimitTimesCounter>4</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
