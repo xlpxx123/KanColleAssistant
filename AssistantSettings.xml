@@ -831,7 +831,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>10</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2694,7 +2694,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>17</ChangeShipConfig>
+    <ChangeShipConfig>4</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
