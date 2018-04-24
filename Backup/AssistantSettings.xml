@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-04-21T00:38:07.5639985Z</BackupTime>
+  <BackupTime>2018-04-23T23:20:06.5324098Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -831,7 +831,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>10</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2674,7 +2674,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>7</SortieLimitTimes>
-        <SortieLimitTimesCounter>1</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>7</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2694,7 +2694,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>4</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -7371,7 +7371,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>9</OrganizationConfig>
+    <OrganizationConfig>14</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
