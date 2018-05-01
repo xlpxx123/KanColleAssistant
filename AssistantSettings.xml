@@ -1383,7 +1383,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>3</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -4476,9 +4476,9 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>81360</ID>
-                <Name>46cm三連装砲</Name>
-                <Level>7</Level>
+                <ID>215817</ID>
+                <Name>51cm連装砲</Name>
+                <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>MainCanonHeavy</IconType>
@@ -4494,7 +4494,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>15616</ID>
+                <ID>13331</ID>
                 <Name>九一式徹甲弾</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -4503,8 +4503,8 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>82797</ID>
-                <Name>紫雲</Name>
+                <ID>189719</ID>
+                <Name>零式水上偵察機11型乙(熟練)</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
                 <Carry>3</Carry>
@@ -4529,7 +4529,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>15819</ID>
+                <ID>36224</ID>
                 <Name>試製41cm三連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -4538,7 +4538,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>28399</ID>
+                <ID>15616</ID>
                 <Name>九一式徹甲弾</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -4573,7 +4573,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>36224</ID>
+                <ID>15819</ID>
                 <Name>試製41cm三連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -4582,7 +4582,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>108087</ID>
+                <ID>28399</ID>
                 <Name>九一式徹甲弾</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -4591,7 +4591,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>41611</ID>
+                <ID>44735</ID>
                 <Name>試製晴嵐</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -4635,7 +4635,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>103422</ID>
+                <ID>82797</ID>
                 <Name>紫雲</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -4652,7 +4652,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>50159</ID>
+                <ID>3352</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
@@ -4670,7 +4670,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>94187</ID>
+                <ID>21230</ID>
                 <Name>二式水戦改(熟練)</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -4679,7 +4679,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>139669</ID>
+                <ID>41611</ID>
                 <Name>試製晴嵐</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -4714,17 +4714,17 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>59426</ID>
-                <Name>四式水中聴音機</Name>
+                <ID>4976</ID>
+                <Name>三式爆雷投射機</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
-                <IconType>Soner</IconType>
+                <IconType>ASW</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>4976</ID>
-                <Name>三式爆雷投射機</Name>
+                <ID>166935</ID>
+                <Name>二式爆雷</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
@@ -4734,7 +4734,7 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>45.6830911506637</ViewRangeValue>
+        <ViewRangeValue>47.084386706819259</ViewRangeValue>
         <AirSuperiority>113</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
@@ -7370,7 +7370,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>8</OrganizationConfig>
+    <OrganizationConfig>12</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
