@@ -1937,10 +1937,10 @@
             <int>510</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>331</int>
+            <int>146875</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>29</int>
+            <int>331</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>3318</int>
@@ -1959,7 +1959,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Boss</SortieLimitType>
         <SortieLimitTimes>6</SortieLimitTimes>
-        <SortieLimitTimesCounter>2</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2693,7 +2693,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>12</ChangeShipConfig>
+    <ChangeShipConfig>13</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -3787,7 +3787,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>22</ID>
+                <ID>94633</ID>
                 <Name>零式艦戦52型(熟練)</Name>
                 <Level>10</Level>
                 <Adept>7</Adept>
@@ -3804,9 +3804,9 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>81360</ID>
-                <Name>46cm三連装砲</Name>
-                <Level>7</Level>
+                <ID>215817</ID>
+                <Name>51cm連装砲</Name>
+                <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>MainCanonHeavy</IconType>
@@ -3857,9 +3857,9 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>210608</ID>
-                <Name>試製51cm連装砲</Name>
-                <Level>0</Level>
+                <ID>81787</ID>
+                <Name>46cm三連装砲</Name>
+                <Level>7</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>MainCanonHeavy</IconType>
@@ -3875,21 +3875,21 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
+                <ID>94187</ID>
+                <Name>二式水戦改(熟練)</Name>
+                <Level>0</Level>
+                <Adept>7</Adept>
+                <Carry>8</Carry>
+                <IconType>SeaplaneFighter</IconType>
+                <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
                 <ID>82797</ID>
                 <Name>紫雲</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>8</Carry>
-                <IconType>ReconSeaplane</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>129894</ID>
-                <Name>強風改</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
                 <Carry>5</Carry>
-                <IconType>SeaplaneFighter</IconType>
+                <IconType>ReconSeaplane</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
             </Slots>
@@ -3901,8 +3901,8 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>215817</ID>
-                <Name>51cm連装砲</Name>
+                <ID>210608</ID>
+                <Name>試製51cm連装砲</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
@@ -3928,9 +3928,9 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>8816</ID>
+                <ID>44183</ID>
                 <Name>九八式水上偵察機(夜偵)</Name>
-                <Level>10</Level>
+                <Level>0</Level>
                 <Adept>7</Adept>
                 <Carry>3</Carry>
                 <IconType>ReconSeaplane</IconType>
@@ -3957,7 +3957,7 @@
                 <ID>63416</ID>
                 <Name>流星(六〇一空)</Name>
                 <Level>0</Level>
-                <Adept>6</Adept>
+                <Adept>7</Adept>
                 <Carry>24</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -3998,7 +3998,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>2436</ID>
+                <ID>25997</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -4027,8 +4027,8 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>59.422204875006258</ViewRangeValue>
-        <AirSuperiority>482</AirSuperiority>
+        <ViewRangeValue>54.977043272156124</ViewRangeValue>
+        <AirSuperiority>485</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>3-5</Name>
@@ -5564,9 +5564,9 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>25942</ID>
+                <ID>19408</ID>
                 <Name>一式徹甲弾</Name>
-                <Level>6</Level>
+                <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>APShell</IconType>
@@ -5628,13 +5628,48 @@
             </Slots>
           </ShipData>
           <ShipData>
+            <ID>146875</ID>
+            <Name>涼月改</Name>
+            <Type>駆逐艦</Type>
+            <Level>0</Level>
+            <Slots>
+              <ItemData>
+                <ID>25264</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
+                <Level>10</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>HighAngleGun</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>13097</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
+                <Level>10</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>HighAngleGun</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>27147</ID>
+                <Name>13号対空電探改</Name>
+                <Level>1</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>Rader</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+            </Slots>
+          </ShipData>
+          <ShipData>
             <ID>331</ID>
             <Name>北上改二</Name>
             <Type>重雷装巡洋艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>141660</ID>
+                <ID>142184</ID>
                 <Name>甲標的</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5643,56 +5678,21 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>49019</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>10</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>19097</ID>
-                <Name>15.2cm連装砲改</Name>
-                <Level>10</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-            </Slots>
-          </ShipData>
-          <ShipData>
-            <ID>29</ID>
-            <Name>夕立改二</Name>
-            <Type>駆逐艦</Type>
-            <Level>0</Level>
-            <Slots>
-              <ItemData>
-                <ID>21400</ID>
-                <Name>試製61cm六連装(酸素)魚雷</Name>
-                <Level>9</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>Torpedo</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>40168</ID>
-                <Name>試製61cm六連装(酸素)魚雷</Name>
-                <Level>9</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>Torpedo</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>2095</ID>
-                <Name>照明弾</Name>
+                <ID>38159</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
-                <IconType>Flare</IconType>
+                <IconType>HighAngleGun</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>190599</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>HighAngleGun</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
@@ -5775,7 +5775,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>22</ID>
+                <ID>94633</ID>
                 <Name>零式艦戦52型(熟練)</Name>
                 <Level>10</Level>
                 <Adept>7</Adept>
@@ -5786,8 +5786,8 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>38.782996698822942</ViewRangeValue>
-        <AirSuperiority>441</AirSuperiority>
+        <ViewRangeValue>41.205798218614035</ViewRangeValue>
+        <AirSuperiority>394</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>水反</Name>
@@ -7379,7 +7379,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>9</OrganizationConfig>
+    <OrganizationConfig>10</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
