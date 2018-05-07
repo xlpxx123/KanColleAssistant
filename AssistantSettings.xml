@@ -5029,7 +5029,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>41320</ID>
+                <ID>45363</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5046,6 +5046,15 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
+                <ID>22766</ID>
+                <Name>16inch三連装砲 Mk.7</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
                 <ID>15819</ID>
                 <Name>試製41cm三連装砲</Name>
                 <Level>6</Level>
@@ -5061,15 +5070,6 @@
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>APShell</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>40226</ID>
-                <Name>16inch三連装砲 Mk.7</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
@@ -5102,7 +5102,7 @@
                 <ID>22200</ID>
                 <Name>九七式艦攻(友永隊)</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>4</Adept>
                 <Carry>24</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -5134,7 +5134,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>44537</ID>
+                <ID>62611</ID>
                 <Name>九七式艦攻(友永隊)</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5143,7 +5143,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>105900</ID>
+                <ID>49470</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5196,7 +5196,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>27667</ID>
+                <ID>18234</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5222,21 +5222,12 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>50159</ID>
+                <ID>8200</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>6</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>51094</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
@@ -5246,6 +5237,15 @@
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>MainCanonMedium</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>23262</ID>
+                <Name>ドラム缶(輸送用)</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>DrumCanister</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
@@ -5260,8 +5260,8 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>51.246512536691981</ViewRangeValue>
-        <AirSuperiority>387</AirSuperiority>
+        <ViewRangeValue>51.831175350442592</ViewRangeValue>
+        <AirSuperiority>386</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>54-2</Name>
@@ -7379,7 +7379,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>10</OrganizationConfig>
+    <OrganizationConfig>9</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
