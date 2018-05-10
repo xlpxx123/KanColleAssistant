@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-05-06T13:23:02.9009635Z</BackupTime>
+  <BackupTime>2018-05-09T23:57:08.7047363Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -798,7 +798,7 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>165640</int>
+            <int>163473</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>588</int>
@@ -4996,13 +4996,22 @@
         <Fleet>1</Fleet>
         <Ships>
           <ShipData>
-            <ID>165640</ID>
-            <Name>Ташкент改</Name>
+            <ID>163473</ID>
+            <Name>旗風改</Name>
             <Type>駆逐艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>32441</ID>
+                <ID>45363</ID>
+                <Name>ドラム缶(輸送用)</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>DrumCanister</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>37430</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5012,24 +5021,6 @@
               </ItemData>
               <ItemData>
                 <ID>42894</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>58198</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>45363</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5102,7 +5093,7 @@
                 <ID>22200</ID>
                 <Name>九七式艦攻(友永隊)</Name>
                 <Level>0</Level>
-                <Adept>4</Adept>
+                <Adept>7</Adept>
                 <Carry>24</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -5260,21 +5251,30 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>51.831175350442592</ViewRangeValue>
-        <AirSuperiority>386</AirSuperiority>
+        <ViewRangeValue>50.171673172748172</ViewRangeValue>
+        <AirSuperiority>387</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>54-2</Name>
         <Fleet>1</Fleet>
         <Ships>
           <ShipData>
-            <ID>165640</ID>
-            <Name>Ташкент改</Name>
+            <ID>163473</ID>
+            <Name>旗風改</Name>
             <Type>駆逐艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>32441</ID>
+                <ID>45363</ID>
+                <Name>ドラム缶(輸送用)</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>DrumCanister</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>37430</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5291,24 +5291,6 @@
                 <IconType>DrumCanister</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
-              <ItemData>
-                <ID>58198</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>45363</ID>
-                <Name>ドラム缶(輸送用)</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
             </Slots>
           </ShipData>
           <ShipData>
@@ -5317,15 +5299,6 @@
             <Type>戦艦</Type>
             <Level>0</Level>
             <Slots>
-              <ItemData>
-                <ID>45075</ID>
-                <Name>16inch三連装砲 Mk.7</Name>
-                <Level>7</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
               <ItemData>
                 <ID>40226</ID>
                 <Name>16inch三連装砲 Mk.7</Name>
@@ -5336,7 +5309,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>108087</ID>
+                <ID>13331</ID>
                 <Name>九一式徹甲弾</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -5345,9 +5318,18 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>82797</ID>
-                <Name>紫雲</Name>
-                <Level>0</Level>
+                <ID>45075</ID>
+                <Name>16inch三連装砲 Mk.7</Name>
+                <Level>7</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>83168</ID>
+                <Name>Ro.43水偵</Name>
+                <Level>7</Level>
                 <Adept>7</Adept>
                 <Carry>3</Carry>
                 <IconType>ReconSeaplane</IconType>
@@ -5362,7 +5344,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>18234</ID>
+                <ID>25997</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5415,7 +5397,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>27667</ID>
+                <ID>105900</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -5532,7 +5514,7 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>45.567820424740745</ViewRangeValue>
+        <ViewRangeValue>42.96807575610022</ViewRangeValue>
         <AirSuperiority>378</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
@@ -7379,7 +7361,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>9</OrganizationConfig>
+    <OrganizationConfig>10</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
