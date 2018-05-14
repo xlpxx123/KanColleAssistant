@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-05-12T01:49:28.8489142Z</BackupTime>
+  <BackupTime>2018-05-14T10:21:57.9313914Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -2674,7 +2674,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>7</SortieLimitTimes>
-        <SortieLimitTimesCounter>7</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>5</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -2693,7 +2693,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>17</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -6263,7 +6263,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>142184</ID>
+                <ID>151098</ID>
                 <Name>甲標的</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -6272,7 +6272,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>19097</ID>
+                <ID>95543</ID>
                 <Name>15.2cm連装砲改</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -6281,7 +6281,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>49019</ID>
+                <ID>9166</ID>
                 <Name>20.3cm(3号)連装砲</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -6298,7 +6298,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>13648</ID>
+                <ID>37148</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -6307,7 +6307,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>23548</ID>
+                <ID>38159</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -6351,7 +6351,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>59856</ID>
+                <ID>90589</ID>
                 <Name>QF 2ポンド8連装ポンポン砲</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -6368,18 +6368,18 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>54056</ID>
-                <Name>12.7cm連装高角砲(後期型)</Name>
-                <Level>0</Level>
+                <ID>13648</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
+                <Level>2</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>HighAngleGun</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>42503</ID>
-                <Name>12.7cm連装高角砲(後期型)</Name>
-                <Level>0</Level>
+                <ID>23548</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
+                <Level>3</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>HighAngleGun</IconType>
@@ -6403,7 +6403,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>38159</ID>
+                <ID>190599</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -6412,7 +6412,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>37148</ID>
+                <ID>200948</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -6421,7 +6421,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>90589</ID>
+                <ID>173542</ID>
                 <Name>QF 2ポンド8連装ポンポン砲</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -6438,7 +6438,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>25264</ID>
+                <ID>13097</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -6447,7 +6447,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>13097</ID>
+                <ID>25264</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -6467,7 +6467,7 @@
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>-3.4788696349372046</ViewRangeValue>
+        <ViewRangeValue>-3.04154375782133</ViewRangeValue>
         <AirSuperiority>0</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
@@ -7361,7 +7361,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>10</OrganizationConfig>
+    <OrganizationConfig>14</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
