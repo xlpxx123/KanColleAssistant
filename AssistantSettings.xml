@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>0</int>
+      <int>37</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -1381,7 +1381,7 @@
         </ChangeShips>
         <Name>1-5</Name>
         <Fleet>1</Fleet>
-        <SortieLimitType>Wins</SortieLimitType>
+        <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
@@ -2688,6 +2688,7 @@
       <int>2</int>
       <int>3</int>
       <int>5</int>
+      <int>7</int>
       <int>8</int>
       <int>9</int>
       <int>13</int>
@@ -7361,7 +7362,7 @@
         <AirSuperiority>71</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>10</OrganizationConfig>
+    <OrganizationConfig>14</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
