@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-05-14T10:21:57.9313914Z</BackupTime>
+  <BackupTime>2018-05-16T23:18:28.9961661Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>37</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -1359,13 +1359,13 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>146345</int>
+            <int>146196</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>129266</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>146196</int>
+            <int>146345</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>104342</int>
@@ -2674,7 +2674,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>7</SortieLimitTimes>
-        <SortieLimitTimesCounter>5</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>4</SortieLimitTimesCounter>
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>

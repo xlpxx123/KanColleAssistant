@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-05-14T10:21:57.9313914Z</BackupTime>
+  <BackupTime>2018-05-16T23:18:28.9961661Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -1381,7 +1381,7 @@
         </ChangeShips>
         <Name>1-5</Name>
         <Fleet>1</Fleet>
-        <SortieLimitType>Wins</SortieLimitType>
+        <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
@@ -2688,12 +2688,13 @@
       <int>2</int>
       <int>3</int>
       <int>5</int>
+      <int>7</int>
       <int>8</int>
       <int>9</int>
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>17</ChangeShipConfig>
+    <ChangeShipConfig>8</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
