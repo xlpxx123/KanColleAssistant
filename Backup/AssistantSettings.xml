@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-05-19T01:18:58.3355604Z</BackupTime>
+  <BackupTime>2018-05-23T23:15:23.9463396Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Ташкент</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>38</int>
+      <int>37</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -829,9 +829,9 @@
         </ChangeShips>
         <Name>54</Name>
         <Fleet>1</Fleet>
-        <SortieLimitType>None</SortieLimitType>
+        <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>4</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -1360,12 +1360,17 @@
         <ChangeShips>
           <ArrayOfInt>
             <int>146196</int>
+            <int>129266</int>
+            <int>146345</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>129266</int>
+            <int>146196</int>
+            <int>146345</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>146345</int>
+            <int>146196</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>104342</int>
