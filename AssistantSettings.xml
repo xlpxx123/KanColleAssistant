@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-05-30T09:23:35.090103Z</BackupTime>
+  <BackupTime>2018-06-01T09:45:53.4095582Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>福江</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -3153,7 +3153,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>20</ChangeShipConfig>
+    <ChangeShipConfig>18</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -8076,7 +8076,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>25264</ID>
+                <ID>13097</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
@@ -8111,15 +8111,6 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>22766</ID>
-                <Name>16inch三連装砲 Mk.7</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
                 <ID>15819</ID>
                 <Name>試製41cm三連装砲</Name>
                 <Level>6</Level>
@@ -8145,6 +8136,15 @@
                 <Carry>3</Carry>
                 <IconType>ReconSeaplane</IconType>
                 <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>40226</ID>
+                <Name>16inch三連装砲 Mk.7</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
           </ShipData>
@@ -8193,8 +8193,8 @@
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>445</ID>
-            <Name>千代田航改二</Name>
+            <ID>6391</ID>
+            <Name>瑞鳳改二乙</Name>
             <Type>軽空母</Type>
             <Level>0</Level>
             <Slots>
@@ -8203,34 +8203,34 @@
                 <Name>天山一二型(友永隊)</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>24</Carry>
+                <Carry>18</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>62296</ID>
+                <ID>91253</ID>
                 <Name>烈風改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>16</Carry>
+                <Carry>15</Carry>
                 <IconType>Fighter</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>2436</ID>
-                <Name>流星改</Name>
+                <ID>174885</ID>
+                <Name>F4U-1D</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>11</Carry>
-                <IconType>TorpedoBomber</IconType>
+                <Carry>15</Carry>
+                <IconType>DiveBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>168352</ID>
-                <Name>Seafire Mk.III改</Name>
+                <ID>178953</ID>
+                <Name>F6F-5</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>8</Carry>
+                <Carry>2</Carry>
                 <IconType>Fighter</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
@@ -8243,7 +8243,7 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>141652</ID>
+                <ID>10102</ID>
                 <Name>甲標的</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -8252,7 +8252,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>46229</ID>
+                <ID>38254</ID>
                 <Name>熟練見張員</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -8261,7 +8261,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>40168</ID>
+                <ID>21400</ID>
                 <Name>試製61cm六連装(酸素)魚雷</Name>
                 <Level>9</Level>
                 <Adept>0</Adept>
@@ -8278,12 +8278,21 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>40169</ID>
+                <ID>19301</ID>
                 <Name>四式水中聴音機</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>Soner</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>190599</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>HighAngleGun</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
@@ -8295,20 +8304,11 @@
                 <IconType>HighAngleGun</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
-              <ItemData>
-                <ID>38159</ID>
-                <Name>10cm連装高角砲+高射装置</Name>
-                <Level>0</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>HighAngleGun</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>40.546343549465092</ViewRangeValue>
-        <AirSuperiority>242</AirSuperiority>
+        <ViewRangeValue>40.68136169018554</ViewRangeValue>
+        <AirSuperiority>255</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
         <Name>1-6茶</Name>
@@ -8547,7 +8547,7 @@
         <AirSuperiority>215</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>21</OrganizationConfig>
+    <OrganizationConfig>20</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
