@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-06-05T23:27:05.1156598Z</BackupTime>
+  <BackupTime>2018-06-09T14:17:29.895054Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>福江</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -798,7 +798,7 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>3264</int>
+            <int>817</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>588</int>
@@ -831,7 +831,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>8</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -3296,7 +3296,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>21</ChangeShipConfig>
+    <ChangeShipConfig>4</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -5599,13 +5599,13 @@
         <Fleet>1</Fleet>
         <Ships>
           <ShipData>
-            <ID>163473</ID>
-            <Name>旗風改</Name>
+            <ID>817</ID>
+            <Name>望月改</Name>
             <Type>駆逐艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>45363</ID>
+                <ID>39703</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5614,21 +5614,21 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>37430</ID>
-                <Name>ドラム缶(輸送用)</Name>
+                <ID>182882</ID>
+                <Name>探照灯</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
+                <IconType>Searchlight</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>42894</ID>
-                <Name>ドラム缶(輸送用)</Name>
+                <ID>54302</ID>
+                <Name>熟練見張員</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
-                <IconType>DrumCanister</IconType>
+                <IconType>SurfaceShipPersonnel</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
@@ -5639,24 +5639,6 @@
             <Type>戦艦</Type>
             <Level>0</Level>
             <Slots>
-              <ItemData>
-                <ID>22766</ID>
-                <Name>16inch三連装砲 Mk.7</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>15819</ID>
-                <Name>試製41cm三連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
               <ItemData>
                 <ID>121121</ID>
                 <Name>九一式徹甲弾</Name>
@@ -5674,6 +5656,24 @@
                 <Carry>3</Carry>
                 <IconType>ReconSeaplane</IconType>
                 <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>15819</ID>
+                <Name>試製41cm三連装砲</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>22766</ID>
+                <Name>16inch三連装砲 Mk.7</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
           </ShipData>
@@ -5766,8 +5766,8 @@
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>445</ID>
-            <Name>千代田航改二</Name>
+            <ID>6391</ID>
+            <Name>瑞鳳改二乙</Name>
             <Type>軽空母</Type>
             <Level>0</Level>
             <Slots>
@@ -5776,34 +5776,34 @@
                 <Name>天山一二型(友永隊)</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>24</Carry>
+                <Carry>18</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>62296</ID>
+                <ID>91253</ID>
                 <Name>烈風改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>16</Carry>
+                <Carry>15</Carry>
                 <IconType>Fighter</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>18234</ID>
-                <Name>流星改</Name>
+                <ID>174885</ID>
+                <Name>F4U-1D</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>11</Carry>
-                <IconType>TorpedoBomber</IconType>
+                <Carry>15</Carry>
+                <IconType>DiveBomber</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>168352</ID>
-                <Name>Seafire Mk.III改</Name>
+                <ID>178953</ID>
+                <Name>F6F-5</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
-                <Carry>8</Carry>
+                <Carry>2</Carry>
                 <IconType>Fighter</IconType>
                 <IsNumerable>true</IsNumerable>
               </ItemData>
@@ -5816,24 +5816,6 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>8200</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>3352</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
                 <ID>23262</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
@@ -5843,32 +5825,7 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>153140</ID>
-                <Name>零式水上偵察機11型乙</Name>
-                <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>11</Carry>
-                <IconType>ReconSeaplane</IconType>
-                <IsNumerable>true</IsNumerable>
-              </ItemData>
-            </Slots>
-          </ShipData>
-        </Ships>
-        <ViewRangeValue>50.171673172748172</ViewRangeValue>
-        <AirSuperiority>387</AirSuperiority>
-      </OrganizationSetting>
-      <OrganizationSetting>
-        <Name>54-2</Name>
-        <Fleet>1</Fleet>
-        <Ships>
-          <ShipData>
-            <ID>163473</ID>
-            <Name>旗風改</Name>
-            <Type>駆逐艦</Type>
-            <Level>0</Level>
-            <Slots>
-              <ItemData>
-                <ID>45363</ID>
+                <ID>32441</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
@@ -5886,12 +5843,55 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>42894</ID>
+                <ID>38254</ID>
+                <Name>熟練見張員</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>SurfaceShipPersonnel</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+            </Slots>
+          </ShipData>
+        </Ships>
+        <ViewRangeValue>45.776576517751209</ViewRangeValue>
+        <AirSuperiority>400</AirSuperiority>
+      </OrganizationSetting>
+      <OrganizationSetting>
+        <Name>54-2</Name>
+        <Fleet>1</Fleet>
+        <Ships>
+          <ShipData>
+            <ID>817</ID>
+            <Name>望月改</Name>
+            <Type>駆逐艦</Type>
+            <Level>0</Level>
+            <Slots>
+              <ItemData>
+                <ID>39703</ID>
                 <Name>ドラム缶(輸送用)</Name>
                 <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>DrumCanister</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>182882</ID>
+                <Name>探照灯</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>Searchlight</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>54302</ID>
+                <Name>熟練見張員</Name>
+                <Level>0</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>SurfaceShipPersonnel</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
@@ -5903,30 +5903,12 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>40226</ID>
-                <Name>16inch三連装砲 Mk.7</Name>
-                <Level>6</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
                 <ID>13331</ID>
                 <Name>九一式徹甲弾</Name>
                 <Level>10</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>APShell</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
-              <ItemData>
-                <ID>45075</ID>
-                <Name>16inch三連装砲 Mk.7</Name>
-                <Level>7</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>MainCanonHeavy</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
@@ -5937,6 +5919,24 @@
                 <Carry>3</Carry>
                 <IconType>ReconSeaplane</IconType>
                 <IsNumerable>true</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>40226</ID>
+                <Name>16inch三連装砲 Mk.7</Name>
+                <Level>6</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>45075</ID>
+                <Name>16inch三連装砲 Mk.7</Name>
+                <Level>7</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>MainCanonHeavy</IconType>
+                <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
           </ShipData>
@@ -5965,7 +5965,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>27670</ID>
+                <ID>27667</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -6044,7 +6044,7 @@
                 <IsNumerable>true</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>91253</ID>
+                <ID>62296</ID>
                 <Name>烈風改</Name>
                 <Level>0</Level>
                 <Adept>7</Adept>
@@ -6079,21 +6079,21 @@
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>42448</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
+                <ID>45363</ID>
+                <Name>ドラム缶(輸送用)</Name>
+                <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
+                <IconType>DrumCanister</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>23826</ID>
-                <Name>20.3cm(3号)連装砲</Name>
-                <Level>6</Level>
+                <ID>65</ID>
+                <Name>ドラム缶(輸送用)</Name>
+                <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
-                <IconType>MainCanonMedium</IconType>
+                <IconType>DrumCanister</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
@@ -6106,18 +6106,18 @@
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>155378</ID>
-                <Name>零式水上偵察機11型乙</Name>
+                <ID>8868</ID>
+                <Name>熟練見張員</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
-                <Carry>11</Carry>
-                <IconType>ReconSeaplane</IconType>
-                <IsNumerable>true</IsNumerable>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>SurfaceShipPersonnel</IconType>
+                <IsNumerable>false</IsNumerable>
               </ItemData>
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>42.96807575610022</ViewRangeValue>
+        <ViewRangeValue>39.49668991914956</ViewRangeValue>
         <AirSuperiority>378</AirSuperiority>
       </OrganizationSetting>
       <OrganizationSetting>
@@ -8962,7 +8962,7 @@
         <AirSuperiority>242</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>22</OrganizationConfig>
+    <OrganizationConfig>10</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
@@ -8995,7 +8995,7 @@
   <OperationAdvanceTime>40</OperationAdvanceTime>
   <PoiModeOpen>false</PoiModeOpen>
   <LogOpen>false</LogOpen>
-  <AutoF5Open>true</AutoF5Open>
+  <AutoF5Open>false</AutoF5Open>
   <GlobalKeyOpen>true</GlobalKeyOpen>
   <AutoRepairLvCondition>70</AutoRepairLvCondition>
   <AutoDevelopNum>0</AutoDevelopNum>
