@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-06-09T14:17:29.895054Z</BackupTime>
+  <BackupTime>2018-06-11T23:16:55.6877173Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>福江</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -21,7 +21,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>5</int>
+      <int>4</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>5</int>
+      <int>38</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -831,7 +831,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>SWins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>8</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -1363,6 +1363,7 @@
           </ArrayOfInt>
           <ArrayOfInt>
             <int>146345</int>
+            <int>163527</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>146196</int>
@@ -1381,8 +1382,8 @@
         </ChangeShips>
         <Name>1-5</Name>
         <Fleet>1</Fleet>
-        <SortieLimitType>Wins</SortieLimitType>
-        <SortieLimitTimes>10</SortieLimitTimes>
+        <SortieLimitType>None</SortieLimitType>
+        <SortieLimitTimes>1</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -3263,7 +3264,7 @@
             <int>40</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>146875</int>
+            <int>18090</int>
           </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
@@ -3296,7 +3297,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>4</ChangeShipConfig>
+    <ChangeShipConfig>8</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -8809,7 +8810,7 @@
                 <ID>94622</ID>
                 <Name>流星改</Name>
                 <Level>0</Level>
-                <Adept>3</Adept>
+                <Adept>7</Adept>
                 <Carry>24</Carry>
                 <IconType>TorpedoBomber</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -8906,7 +8907,7 @@
                 <ID>62297</ID>
                 <Name>瑞雲(六三四空)</Name>
                 <Level>0</Level>
-                <Adept>7</Adept>
+                <Adept>1</Adept>
                 <Carry>9</Carry>
                 <IconType>ReconSeaplane</IconType>
                 <IsNumerable>true</IsNumerable>
@@ -8923,46 +8924,46 @@
             </Slots>
           </ShipData>
           <ShipData>
-            <ID>146875</ID>
-            <Name>涼月改</Name>
+            <ID>18090</ID>
+            <Name>初月改</Name>
             <Type>駆逐艦</Type>
             <Level>0</Level>
             <Slots>
               <ItemData>
-                <ID>13097</ID>
+                <ID>13648</ID>
                 <Name>10cm連装高角砲+高射装置</Name>
-                <Level>10</Level>
+                <Level>4</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>HighAngleGun</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
               <ItemData>
-                <ID>27147</ID>
+                <ID>23548</ID>
+                <Name>10cm連装高角砲+高射装置</Name>
+                <Level>4</Level>
+                <Adept>0</Adept>
+                <Carry>0</Carry>
+                <IconType>HighAngleGun</IconType>
+                <IsNumerable>false</IsNumerable>
+              </ItemData>
+              <ItemData>
+                <ID>25265</ID>
                 <Name>13号対空電探改</Name>
-                <Level>1</Level>
+                <Level>0</Level>
                 <Adept>0</Adept>
                 <Carry>0</Carry>
                 <IconType>Rader</IconType>
                 <IsNumerable>false</IsNumerable>
               </ItemData>
-              <ItemData>
-                <ID>25264</ID>
-                <Name>10cm連装高角砲+高射装置</Name>
-                <Level>10</Level>
-                <Adept>0</Adept>
-                <Carry>0</Carry>
-                <IconType>HighAngleGun</IconType>
-                <IsNumerable>false</IsNumerable>
-              </ItemData>
             </Slots>
           </ShipData>
         </Ships>
-        <ViewRangeValue>44.326181830715967</ViewRangeValue>
-        <AirSuperiority>242</AirSuperiority>
+        <ViewRangeValue>43.892345369665634</ViewRangeValue>
+        <AirSuperiority>235</AirSuperiority>
       </OrganizationSetting>
     </OrganizationSettings>
-    <OrganizationConfig>10</OrganizationConfig>
+    <OrganizationConfig>21</OrganizationConfig>
   </AutoOrganizationSettings>
   <AutoQuestsSettings>
     <LastCheckUTCTime>2017-08-22T03:07:32.9431673Z</LastCheckUTCTime>
@@ -8995,7 +8996,7 @@
   <OperationAdvanceTime>40</OperationAdvanceTime>
   <PoiModeOpen>false</PoiModeOpen>
   <LogOpen>false</LogOpen>
-  <AutoF5Open>false</AutoF5Open>
+  <AutoF5Open>true</AutoF5Open>
   <GlobalKeyOpen>true</GlobalKeyOpen>
   <AutoRepairLvCondition>70</AutoRepairLvCondition>
   <AutoDevelopNum>0</AutoDevelopNum>
