@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-06-11T23:16:55.6877173Z</BackupTime>
+  <BackupTime>2018-06-22T15:35:30.8825793Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>福江</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -47,7 +47,7 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>38</int>
+      <int>37</int>
       <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
@@ -798,7 +798,7 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>817</int>
+            <int>19987</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>588</int>
@@ -1359,14 +1359,13 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>163876</int>
+            <int>184033</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>146345</int>
             <int>163527</int>
           </ArrayOfInt>
           <ArrayOfInt>
-            <int>146196</int>
+            <int>163876</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>104342</int>
@@ -3297,7 +3296,7 @@
       <int>13</int>
       <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>4</ChangeShipConfig>
+    <ChangeShipConfig>8</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
