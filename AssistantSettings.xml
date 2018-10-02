@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-09-24T07:32:03.0088671Z</BackupTime>
+  <BackupTime>2018-10-01T13:02:28.3995391Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>岸波</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -336,21 +336,27 @@
         <ChangeShips>
           <ArrayOfInt>
             <int>116</int>
+            <int>559</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>46386</int>
+            <int>18048</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>112</int>
+            <int>6391</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>48309</int>
+            <int>9482</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>47514</int>
+            <int>6491</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>890</int>
+            <int>117</int>
           </ArrayOfInt>
           <ArrayOfInt />
           <ArrayOfInt />
@@ -369,7 +375,7 @@
       </ChangeShipSetting>
     </ChangeShipSettings>
     <AutoDissolutionOpen>true</AutoDissolutionOpen>
-    <AutoDissolutionThreshold>5</AutoDissolutionThreshold>
+    <AutoDissolutionThreshold>10</AutoDissolutionThreshold>
     <AutoDissolutionLvCondition>5</AutoDissolutionLvCondition>
     <AutoDissolutionRareCondition>银色</AutoDissolutionRareCondition>
     <AutoDissolutionKiraReserved>true</AutoDissolutionKiraReserved>
