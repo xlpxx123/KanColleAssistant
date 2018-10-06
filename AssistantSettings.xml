@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-10-03T16:13:20.1025719Z</BackupTime>
+  <BackupTime>2018-10-06T01:28:34.9901146Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Gotland</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -543,7 +543,291 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>5</SortieLimitTimes>
-        <SortieLimitTimesCounter>5</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <UseAdvanceSettings>false</UseAdvanceSettings>
+        <AdvanceSettingType>Battle</AdvanceSettingType>
+      </ChangeShipSetting>
+      <ChangeShipSetting>
+        <MapArea>1</MapArea>
+        <MapIndex>3</MapIndex>
+        <IsEvent>false</IsEvent>
+        <Strategy>自定</Strategy>
+        <BossStrategy>BOSS进夜战</BossStrategy>
+        <CustomFightNum>1</CustomFightNum>
+        <Formation>单纵</Formation>
+        <RepairTime>1</RepairTime>
+        <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
+        <FlagshipLevelLimit>0</FlagshipLevelLimit>
+        <SpecificMap>4-3</SpecificMap>
+        <LogicItems />
+        <AdvanceFormations>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+        </AdvanceFormations>
+        <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+        </AdvanceNightFight>
+        <AdvanceSelectPoint>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+        </AdvanceSelectPoint>
+        <AdvanceAirPoint>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+        </AdvanceAirPoint>
+        <AdvanceAirWaitCond>false</AdvanceAirWaitCond>
+        <AdvanceAirSupply>true</AdvanceAirSupply>
+        <AdvanceAirAutoRest>false</AdvanceAirAutoRest>
+        <AdvanceAirActions>
+          <AirActionType>Ready</AirActionType>
+          <AirActionType>Ready</AirActionType>
+          <AirActionType>Ready</AirActionType>
+        </AdvanceAirActions>
+        <AutoChangeShipOpen>true</AutoChangeShipOpen>
+        <DamageSettings>
+          <string>大破</string>
+          <string>大破</string>
+          <string>大破</string>
+          <string>大破</string>
+          <string>大破</string>
+          <string>大破</string>
+        </DamageSettings>
+        <ConditionSettings>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+        </ConditionSettings>
+        <ChangeShips>
+          <ArrayOfInt>
+            <int>88274</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>757</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>2656</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>863</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>764</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>104344</int>
+          </ArrayOfInt>
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+        </ChangeShips>
+        <Name>偷油</Name>
+        <Fleet>1</Fleet>
+        <SortieLimitType>None</SortieLimitType>
+        <SortieLimitTimes>0</SortieLimitTimes>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <UseAdvanceSettings>false</UseAdvanceSettings>
+        <AdvanceSettingType>Battle</AdvanceSettingType>
+      </ChangeShipSetting>
+      <ChangeShipSetting>
+        <MapArea>1</MapArea>
+        <MapIndex>5</MapIndex>
+        <IsEvent>false</IsEvent>
+        <Strategy>打通</Strategy>
+        <BossStrategy>BOSS不夜战</BossStrategy>
+        <CustomFightNum>1</CustomFightNum>
+        <Formation>单横</Formation>
+        <RepairTime>1</RepairTime>
+        <FlagshipLevelLimitOpen>false</FlagshipLevelLimitOpen>
+        <FlagshipLevelLimit>0</FlagshipLevelLimit>
+        <SpecificMap>4-3</SpecificMap>
+        <LogicItems />
+        <AdvanceFormations>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+        </AdvanceFormations>
+        <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+        </AdvanceNightFight>
+        <AdvanceSelectPoint>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+        </AdvanceSelectPoint>
+        <AdvanceAirPoint>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+        </AdvanceAirPoint>
+        <AdvanceAirWaitCond>false</AdvanceAirWaitCond>
+        <AdvanceAirSupply>true</AdvanceAirSupply>
+        <AdvanceAirAutoRest>false</AdvanceAirAutoRest>
+        <AdvanceAirActions>
+          <AirActionType>Ready</AirActionType>
+          <AirActionType>Ready</AirActionType>
+          <AirActionType>Ready</AirActionType>
+        </AdvanceAirActions>
+        <AutoChangeShipOpen>true</AutoChangeShipOpen>
+        <DamageSettings>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+        </DamageSettings>
+        <ConditionSettings>
+          <int>40</int>
+          <int>40</int>
+          <int>40</int>
+          <int>40</int>
+          <int>0</int>
+          <int>0</int>
+        </ConditionSettings>
+        <ChangeShips>
+          <ArrayOfInt>
+            <int>104342</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>163527</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>163876</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>184033</int>
+          </ArrayOfInt>
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+        </ChangeShips>
+        <Name>1-5</Name>
+        <Fleet>1</Fleet>
+        <SortieLimitType>Wins</SortieLimitType>
+        <SortieLimitTimes>10</SortieLimitTimes>
+        <SortieLimitTimesCounter>10</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -560,9 +844,8 @@
       <int>8</int>
       <int>9</int>
       <int>13</int>
-      <int>16</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>2</ChangeShipConfig>
+    <ChangeShipConfig>3</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
