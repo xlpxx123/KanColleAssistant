@@ -1,18 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  <BackupTime>2018-10-16T01:05:10.2228626Z</BackupTime>
-=======
-  <BackupTime>2018-10-14T04:46:14.8164879Z</BackupTime>
->>>>>>> ce1e753a2d0bed8abd4d60e6c0de3423c8755f1d
-=======
-  <BackupTime>2018-10-12T02:13:17.5634639Z</BackupTime>
->>>>>>> parent of 1a364eb... 18-10-16
-=======
-  <BackupTime>2018-10-12T02:13:17.5634639Z</BackupTime>
->>>>>>> parent of ce1e753... 18-10-14
+  <BackupTime>2018-10-16T09:19:09.6130955Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Gotland</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -554,7 +542,7 @@
         <Name>补给</Name>
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
-        <SortieLimitTimes>5</SortieLimitTimes>
+        <SortieLimitTimes>25</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
@@ -839,32 +827,11 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>10</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>6</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
-<<<<<<< HEAD
-<<<<<<< HEAD
       <ChangeShipSetting>
-<<<<<<< HEAD
-        <MapArea>5</MapArea>
-        <MapIndex>2</MapIndex>
-        <IsEvent>false</IsEvent>
-        <Strategy>自定</Strategy>
-        <BossStrategy>BOSS进夜战</BossStrategy>
-        <CustomFightNum>1</CustomFightNum>
-        <Formation>单纵</Formation>
-        <RepairTime>1</RepairTime>
-        <FlagshipLevelLimitOpen>true</FlagshipLevelLimitOpen>
-        <FlagshipLevelLimit>77</FlagshipLevelLimit>
-        <SpecificMap>4-3</SpecificMap>
-        <LogicItems />
-        <AdvanceFormations>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-          <string>单纵</string>
-=======
         <MapArea>6</MapArea>
         <MapIndex>5</MapIndex>
         <IsEvent>false</IsEvent>
@@ -882,7 +849,6 @@
           <string>单纵</string>
           <string>单纵</string>
           <string>复纵</string>
->>>>>>> ce1e753a2d0bed8abd4d60e6c0de3423c8755f1d
           <string>单纵</string>
           <string>单纵</string>
           <string>单纵</string>
@@ -960,32 +926,6 @@
         </AdvanceAirActions>
         <AutoChangeShipOpen>true</AutoChangeShipOpen>
         <DamageSettings>
-<<<<<<< HEAD
-          <string>大破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>中破</string>
-          <string>中破</string>
-        </DamageSettings>
-        <ConditionSettings>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-          <int>0</int>
-        </ConditionSettings>
-        <ChangeShips>
-          <ArrayOfInt>
-            <int>147881</int>
-          </ArrayOfInt>
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-          <ArrayOfInt />
-=======
           <string>中破</string>
           <string>中破</string>
           <string>中破</string>
@@ -1020,7 +960,6 @@
           <ArrayOfInt>
             <int>29</int>
           </ArrayOfInt>
->>>>>>> ce1e753a2d0bed8abd4d60e6c0de3423c8755f1d
           <ArrayOfInt />
           <ArrayOfInt />
           <ArrayOfInt />
@@ -1028,26 +967,14 @@
           <ArrayOfInt />
           <ArrayOfInt />
         </ChangeShips>
-<<<<<<< HEAD
-        <Name>52C</Name>
-=======
         <Name>秋刀鱼6-5</Name>
->>>>>>> ce1e753a2d0bed8abd4d60e6c0de3423c8755f1d
         <Fleet>1</Fleet>
         <SortieLimitType>None</SortieLimitType>
         <SortieLimitTimes>0</SortieLimitTimes>
         <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
-<<<<<<< HEAD
-        <UseAdvanceSettings>false</UseAdvanceSettings>
-=======
         <UseAdvanceSettings>true</UseAdvanceSettings>
->>>>>>> ce1e753a2d0bed8abd4d60e6c0de3423c8755f1d
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
-=======
->>>>>>> parent of 1a364eb... 18-10-16
-=======
->>>>>>> parent of ce1e753... 18-10-14
     </ChangeShipSettings>
     <AutoDissolutionOpen>true</AutoDissolutionOpen>
     <AutoDissolutionThreshold>10</AutoDissolutionThreshold>
