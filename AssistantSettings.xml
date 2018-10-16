@@ -2,6 +2,7 @@
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <BackupTime>2018-10-16T01:05:10.2228626Z</BackupTime>
 =======
   <BackupTime>2018-10-14T04:46:14.8164879Z</BackupTime>
@@ -9,6 +10,9 @@
 =======
   <BackupTime>2018-10-12T02:13:17.5634639Z</BackupTime>
 >>>>>>> parent of 1a364eb... 18-10-16
+=======
+  <BackupTime>2018-10-12T02:13:17.5634639Z</BackupTime>
+>>>>>>> parent of ce1e753... 18-10-14
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Gotland</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -835,10 +839,11 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>6</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>10</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
+<<<<<<< HEAD
 <<<<<<< HEAD
       <ChangeShipSetting>
 <<<<<<< HEAD
@@ -1041,6 +1046,8 @@
       </ChangeShipSetting>
 =======
 >>>>>>> parent of 1a364eb... 18-10-16
+=======
+>>>>>>> parent of ce1e753... 18-10-14
     </ChangeShipSettings>
     <AutoDissolutionOpen>true</AutoDissolutionOpen>
     <AutoDissolutionThreshold>10</AutoDissolutionThreshold>
