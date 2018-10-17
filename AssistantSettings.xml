@@ -21,7 +21,7 @@
     </KiraForSupport>
     <AutoKiraCount>
       <int>6</int>
-      <int>4</int>
+      <int>5</int>
       <int>6</int>
       <int>5</int>
     </AutoKiraCount>
@@ -47,8 +47,8 @@
     <AutoKiraExcludeLockedShip>true</AutoKiraExcludeLockedShip>
     <AutoDissolution>true</AutoDissolution>
     <AutoExpeditionTargets>
-      <int>38</int>
       <int>5</int>
+      <int>6</int>
       <int>2</int>
     </AutoExpeditionTargets>
     <AutoKiraSupplyFellows>false</AutoKiraSupplyFellows>
@@ -803,7 +803,7 @@
         </ConditionSettings>
         <ChangeShips>
           <ArrayOfInt>
-            <int>104342</int>
+            <int>192557</int>
           </ArrayOfInt>
           <ArrayOfInt>
             <int>163527</int>
@@ -827,7 +827,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>6</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>10</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -975,6 +975,140 @@
         <UseAdvanceSettings>true</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
+      <ChangeShipSetting>
+        <MapArea>5</MapArea>
+        <MapIndex>2</MapIndex>
+        <IsEvent>false</IsEvent>
+        <Strategy>自定</Strategy>
+        <BossStrategy>BOSS进夜战</BossStrategy>
+        <CustomFightNum>1</CustomFightNum>
+        <Formation>单纵</Formation>
+        <RepairTime>1</RepairTime>
+        <FlagshipLevelLimitOpen>true</FlagshipLevelLimitOpen>
+        <FlagshipLevelLimit>77</FlagshipLevelLimit>
+        <SpecificMap>4-3</SpecificMap>
+        <LogicItems />
+        <AdvanceFormations>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+          <string>单纵</string>
+        </AdvanceFormations>
+        <AdvanceNightFight>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+          <boolean>false</boolean>
+        </AdvanceNightFight>
+        <AdvanceSelectPoint>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+        </AdvanceSelectPoint>
+        <AdvanceAirPoint>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+          <ArrayOfInt>
+            <int>0</int>
+            <int>0</int>
+          </ArrayOfInt>
+        </AdvanceAirPoint>
+        <AdvanceAirWaitCond>false</AdvanceAirWaitCond>
+        <AdvanceAirSupply>true</AdvanceAirSupply>
+        <AdvanceAirAutoRest>false</AdvanceAirAutoRest>
+        <AdvanceAirActions>
+          <AirActionType>Ready</AirActionType>
+          <AirActionType>Ready</AirActionType>
+          <AirActionType>Ready</AirActionType>
+        </AdvanceAirActions>
+        <AutoChangeShipOpen>true</AutoChangeShipOpen>
+        <DamageSettings>
+          <string>大破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+          <string>中破</string>
+        </DamageSettings>
+        <ConditionSettings>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+          <int>0</int>
+        </ConditionSettings>
+        <ChangeShips>
+          <ArrayOfInt>
+            <int>192557</int>
+          </ArrayOfInt>
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+          <ArrayOfInt />
+        </ChangeShips>
+        <Name>5-2C</Name>
+        <Fleet>1</Fleet>
+        <SortieLimitType>None</SortieLimitType>
+        <SortieLimitTimes>0</SortieLimitTimes>
+        <SortieLimitTimesCounter>0</SortieLimitTimesCounter>
+        <UseAdvanceSettings>false</UseAdvanceSettings>
+        <AdvanceSettingType>Battle</AdvanceSettingType>
+      </ChangeShipSetting>
     </ChangeShipSettings>
     <AutoDissolutionOpen>true</AutoDissolutionOpen>
     <AutoDissolutionThreshold>10</AutoDissolutionThreshold>
@@ -989,7 +1123,7 @@
       <int>9</int>
       <int>13</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>3</ChangeShipConfig>
+    <ChangeShipConfig>4</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
@@ -2046,7 +2180,7 @@
   <AutoEquip>true</AutoEquip>
   <AutoEquipFuzzyMatching>true</AutoEquipFuzzyMatching>
   <AutoEquipUnwield>true</AutoEquipUnwield>
-  <AutoStopOnDropping>true</AutoStopOnDropping>
+  <AutoStopOnDropping>false</AutoStopOnDropping>
   <AutoChangeEventRank>false</AutoChangeEventRank>
   <EventRank>Rank_4</EventRank>
   <OperationAdvanceTime>40</OperationAdvanceTime>
