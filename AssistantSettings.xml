@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <AssistantSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <BackupTime>2018-10-16T09:19:09.6130955Z</BackupTime>
+  <BackupTime>2018-10-18T13:44:40.1125365Z</BackupTime>
   <LoadError>0001-01-01T00:00:00</LoadError>
   <TargetShips>Gotland</TargetShips>
   <GlobalKeyHide>g</GlobalKeyHide>
@@ -207,7 +207,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Times</SortieLimitType>
         <SortieLimitTimes>25</SortieLimitTimes>
-        <SortieLimitTimesCounter>25</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>23</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -491,7 +491,7 @@
         <Fleet>1</Fleet>
         <SortieLimitType>Wins</SortieLimitType>
         <SortieLimitTimes>10</SortieLimitTimes>
-        <SortieLimitTimesCounter>10</SortieLimitTimesCounter>
+        <SortieLimitTimesCounter>8</SortieLimitTimesCounter>
         <UseAdvanceSettings>false</UseAdvanceSettings>
         <AdvanceSettingType>Battle</AdvanceSettingType>
       </ChangeShipSetting>
@@ -1216,7 +1216,7 @@
       <int>3</int>
       <int>13</int>
     </AutoDissolutionShipTypes>
-    <ChangeShipConfig>7</ChangeShipConfig>
+    <ChangeShipConfig>2</ChangeShipConfig>
   </AutoSortieSettings>
   <AutoOrganizationSettings>
     <OrganizationSettings>
